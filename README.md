@@ -4,7 +4,7 @@ version 0.0.1
 <p>
 
 ```console
-git clone https://bitbucket.locotech-signal.ru/scm/~ignat.penshin/navigator.git
+git clone https://github.com/ignatpenshin/navigation_engine.git
 chdir navigator
 pip install -r requirements.txt
 ```
