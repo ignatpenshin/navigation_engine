@@ -1,11 +1,34 @@
-version 0.0.1
+version 0.0.2
+(Tested on python3.10)
+
+```
+New in v.0.0.2:
+[1] Moved from KML to GeoJSON. It's simplier and faster to parse.
+[2] Intermediate .csv files removed from using
+[3] Add DataGrabbler class. It unifies DataFrame build process 
+[4] Navigator class refactored from main() to its own utils.navigator.py file
+[5] Now we use general classifier based in utils.grabbler.py
+
+Updates in v.0.0.2:
+[1] point_base got new structure: [id, geometry, Tag, Description]
+[2] rails.get_closest_line(points) ready for active using (updating)
+[3] osm_router now in helpers. Just for test some tools/features.
+[4] _init_kd_tree got its own method in Navigator()
+
+Open Questions:
+[1] How to work with polygons. Tool for fast routing.
+[2] How to make OSM_routing faster. Multiprocess optimizations.
+[3] Own rail LineString -> MultiDiGraph.
+[4] Web map with route streaming.
+[5] SharedMemory stability - need tests. 
+```
 
 <details><summary>Install:</summary>
 <p>
 
 ```console
-git clone https://github.com/ignatpenshin/navigation_engine.git
-chdir navigator
+git clone https://bitbucket.locotech-signal.ru/scm/~ignat.penshin/navigator.git
+cd navigator
 pip install -r requirements.txt
 ```
 </p>
@@ -48,11 +71,11 @@ python main.py
     data: list[dict[str, int|float|str|tuple[float, float]]]
     
     data = [{'Pose': (37.419485, 55.727001), 'Speed': 13.9, 'Heading': 271.27}, 
-            {'point_id': 341, 'point_descript': 1, 'point_coord': (37.415335, 55.726974), 'direct_m': 260.74}, 
-            {'point_id': 696, 'point_descript': 1, 'point_coord': (37.41496, 55.726992), 'direct_m': 284.32}, 
-            {'point_id': 697, 'point_descript': 1, 'point_coord': (37.414956, 55.726977), 'direct_m': 284.58}, 
-            {'point_id': 117, 'point_descript': 1, 'point_coord': (37.41485, 55.727057), 'direct_m': 291.3}, 
-            {'point_id': 343, 'point_descript': 1, 'point_coord': (37.414614, 55.726994), 'direct_m': 306.06}
+            {'id': 341, 'coords': (37.415335, 55.726974),'Tag': "path", 'Description': None,  'direct_m': 260.74}, 
+            {'id': 696, 'coords': (37.41496, 55.726992), 'Tag': "platform", 'Description': None, 'direct_m': 284.32}, 
+            {'id': 697, 'coords': (37.414956, 55.726977),'Tag': "crossing", 'Description': None,  'direct_m': 284.58}, 
+            {'id': 117, 'coords': (37.41485, 55.727057), 'Tag': "tongue", 'Description': None, 'direct_m': 291.3}, 
+            {'id': 343, 'coords': (37.414614, 55.726994),'Tag': "station", 'Description': "Усово",  'direct_m': 306.06}
            ]
     
                     ### Data Description ###
@@ -61,9 +84,10 @@ python main.py
     #                               Speed (km/h), 
     #                               Heading (azimuth to North in degrees)
 
-    # data[1:6] -> Point info dict: point_id (point index from DB), 
-    #                               point_descript (type/color/style/word, e.g. any classifier)
-    #                               point_coord (lon, lat: WGS-84)
+    # data[1:6] -> Point info dict: id (point index from DB), 
+    #                               coords (lon, lat: WGS-84)
+    #                               Tag (type: str from classifier)
+    #                               Description (Optional[str] augmented info)
     #                               direct_m (distance to point in meters)
 
     ```

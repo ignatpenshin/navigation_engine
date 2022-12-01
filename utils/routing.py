@@ -2,6 +2,7 @@ import geopandas as gpd
 from shapely.geometry import LineString, Point
 import osmnx  as ox
 import networkx as nx
+import logging
 import matplotlib.pyplot as plt
 
 
@@ -31,7 +32,7 @@ class Routing:
                                simplify= False,  
                                custom_filter = '["railway"]'
         )
-        print(self.G)
+        logging.info(f"OSM {self.G}: inited")
 
         self.graph_proj = ox.project_graph(self.G) #web-merkator 'EPSG:3857'
         self.edges = ox.graph_to_gdfs(self.graph_proj, nodes=False) 

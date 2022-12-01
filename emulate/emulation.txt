@@ -1,0 +1,3002 @@
+data:{"timestamp": 1667472295, "coords": [37.4199727, 55.7270427], "heading": 270.81, "velocity": 13.19, "accuracy": [2.43, 3.56]}
+
+
+data:{"timestamp": 1667472296, "coords": [37.4199137, 55.7270433], "heading": 270.62, "velocity": 13.37, "accuracy": [2.43, 3.55]}
+
+
+data:{"timestamp": 1667472297, "coords": [37.4198537, 55.7270438], "heading": 270.66, "velocity": 13.58, "accuracy": [2.42, 3.55]}
+
+
+data:{"timestamp": 1667472298, "coords": [37.4197933, 55.7270447], "heading": 271.46, "velocity": 13.67, "accuracy": [2.43, 3.57]}
+
+
+data:{"timestamp": 1667472299, "coords": [37.4197332, 55.7270457], "heading": 271.24, "velocity": 13.62, "accuracy": [2.45, 3.59]}
+
+
+data:{"timestamp": 1667472300, "coords": [37.4196717, 55.7270461], "heading": 270.47, "velocity": 13.92, "accuracy": [2.47, 3.63]}
+
+
+data:{"timestamp": 1667472301, "coords": [37.4196095, 55.7270465], "heading": 270.59, "velocity": 13.97, "accuracy": [2.49, 3.66]}
+
+
+data:{"timestamp": 1667472302, "coords": [37.4195472, 55.7270473], "heading": 271.05, "velocity": 14.02, "accuracy": [2.52, 3.7]}
+
+
+data:{"timestamp": 1667472303, "coords": [37.4194852, 55.7270481], "heading": 271.27, "velocity": 13.9, "accuracy": [2.54, 3.73]}
+
+
+data:{"timestamp": 1667472304, "coords": [37.4194238, 55.7270484], "heading": 270.58, "velocity": 13.66, "accuracy": [2.55, 3.76]}
+
+
+data:{"timestamp": 1667472305, "coords": [37.4193636, 55.7270483], "heading": 270.34, "velocity": 13.38, "accuracy": [2.56, 3.78]}
+
+
+data:{"timestamp": 1667472306, "coords": [37.4193045, 55.7270482], "heading": 270.05, "velocity": 13.11, "accuracy": [2.57, 3.8]}
+
+
+data:{"timestamp": 1667472307, "coords": [37.4192465, 55.7270484], "heading": 271.04, "velocity": 12.92, "accuracy": [2.58, 3.83]}
+
+
+data:{"timestamp": 1667472308, "coords": [37.4191898, 55.7270485], "heading": 270.11, "velocity": 12.57, "accuracy": [2.58, 3.87]}
+
+
+data:{"timestamp": 1667472309, "coords": [37.4191343, 55.7270488], "heading": 270.69, "velocity": 12.29, "accuracy": [2.59, 3.91]}
+
+
+data:{"timestamp": 1667472310, "coords": [37.4190804, 55.7270489], "heading": 269.86, "velocity": 12.02, "accuracy": [2.61, 3.94]}
+
+
+data:{"timestamp": 1667472311, "coords": [37.4190259, 55.727049], "heading": 270.66, "velocity": 12.11, "accuracy": [2.62, 3.97]}
+
+
+data:{"timestamp": 1667472312, "coords": [37.4189711, 55.7270486], "heading": 269.14, "velocity": 12.44, "accuracy": [2.64, 4.01]}
+
+
+data:{"timestamp": 1667472313, "coords": [37.4189156, 55.727049], "heading": 270.2, "velocity": 12.47, "accuracy": [2.65, 4.03]}
+
+
+data:{"timestamp": 1667472314, "coords": [37.4188591, 55.7270493], "heading": 270.3, "velocity": 12.7, "accuracy": [2.66, 4.04]}
+
+
+data:{"timestamp": 1667472315, "coords": [37.4188021, 55.7270496], "heading": 270.06, "velocity": 12.66, "accuracy": [2.65, 4.04]}
+
+
+data:{"timestamp": 1667472316, "coords": [37.4187453, 55.7270504], "heading": 271.5, "velocity": 12.79, "accuracy": [2.65, 4.05]}
+
+
+data:{"timestamp": 1667472318, "coords": [37.4186299, 55.7270503], "heading": 270.24, "velocity": 13.02, "accuracy": [2.67, 4.08]}
+
+
+data:{"timestamp": 1667472319, "coords": [37.418572, 55.7270503], "heading": 270.66, "velocity": 12.91, "accuracy": [2.68, 4.1]}
+
+
+data:{"timestamp": 1667472320, "coords": [37.4185152, 55.7270503], "heading": 270.54, "velocity": 12.72, "accuracy": [2.69, 4.14]}
+
+
+data:{"timestamp": 1667472321, "coords": [37.4184602, 55.7270499], "heading": 270.39, "velocity": 12.24, "accuracy": [2.7, 4.15]}
+
+
+data:{"timestamp": 1667472322, "coords": [37.4184066, 55.7270493], "heading": 269.73, "velocity": 12.07, "accuracy": [2.69, 4.13]}
+
+
+data:{"timestamp": 1667472323, "coords": [37.4183546, 55.7270489], "heading": 269.89, "velocity": 11.69, "accuracy": [2.67, 4.07]}
+
+
+data:{"timestamp": 1667472324, "coords": [37.418304, 55.7270492], "heading": 270.34, "velocity": 11.33, "accuracy": [2.65, 4.01]}
+
+
+data:{"timestamp": 1667472325, "coords": [37.418254, 55.7270502], "heading": 270.95, "velocity": 11.26, "accuracy": [2.61, 3.93]}
+
+
+data:{"timestamp": 1667472326, "coords": [37.4182052, 55.7270513], "heading": 270.82, "velocity": 10.91, "accuracy": [2.58, 3.86]}
+
+
+data:{"timestamp": 1667472327, "coords": [37.418158, 55.7270522], "heading": 270.96, "velocity": 10.59, "accuracy": [2.55, 3.8]}
+
+
+data:{"timestamp": 1667472328, "coords": [37.4181114, 55.7270529], "heading": 270.8, "velocity": 10.48, "accuracy": [2.53, 3.75]}
+
+
+data:{"timestamp": 1667472329, "coords": [37.4180645, 55.7270535], "heading": 270.54, "velocity": 10.63, "accuracy": [2.5, 3.7]}
+
+
+data:{"timestamp": 1667472330, "coords": [37.4180168, 55.7270541], "heading": 270.56, "velocity": 10.79, "accuracy": [2.48, 3.65]}
+
+
+data:{"timestamp": 1667472331, "coords": [37.4179681, 55.7270547], "heading": 270.8, "velocity": 11.04, "accuracy": [2.46, 3.61]}
+
+
+data:{"timestamp": 1667472332, "coords": [37.4179189, 55.7270553], "heading": 270.66, "velocity": 11.12, "accuracy": [2.44, 3.57]}
+
+
+data:{"timestamp": 1667472333, "coords": [37.417869, 55.7270559], "heading": 270.4, "velocity": 11.28, "accuracy": [2.42, 3.54]}
+
+
+data:{"timestamp": 1667472334, "coords": [37.4178184, 55.7270565], "heading": 270.36, "velocity": 11.48, "accuracy": [2.41, 3.5]}
+
+
+data:{"timestamp": 1667472335, "coords": [37.4177674, 55.7270572], "heading": 270.97, "velocity": 11.53, "accuracy": [2.39, 3.48]}
+
+
+data:{"timestamp": 1667472336, "coords": [37.4177156, 55.727058], "heading": 271.3, "velocity": 11.69, "accuracy": [2.39, 3.47]}
+
+
+data:{"timestamp": 1667472337, "coords": [37.4176633, 55.7270586], "heading": 270.56, "velocity": 11.75, "accuracy": [2.38, 3.45]}
+
+
+data:{"timestamp": 1667472338, "coords": [37.4176115, 55.7270588], "heading": 270.19, "velocity": 11.5, "accuracy": [2.37, 3.43]}
+
+
+data:{"timestamp": 1667472339, "coords": [37.4175607, 55.727059], "heading": 270.22, "velocity": 11.31, "accuracy": [2.36, 3.41]}
+
+
+data:{"timestamp": 1667472340, "coords": [37.4175106, 55.7270592], "heading": 270.26, "velocity": 11.19, "accuracy": [2.35, 3.39]}
+
+
+data:{"timestamp": 1667472341, "coords": [37.417462, 55.7270596], "heading": 270.35, "velocity": 10.85, "accuracy": [2.34, 3.37]}
+
+
+data:{"timestamp": 1667472342, "coords": [37.4174143, 55.7270602], "heading": 270.96, "velocity": 10.62, "accuracy": [2.33, 3.35]}
+
+
+data:{"timestamp": 1667472343, "coords": [37.4173677, 55.7270607], "heading": 270.63, "velocity": 10.49, "accuracy": [2.33, 3.35]}
+
+
+data:{"timestamp": 1667472344, "coords": [37.4173216, 55.7270613], "heading": 271.27, "velocity": 10.28, "accuracy": [2.32, 3.34]}
+
+
+data:{"timestamp": 1667472345, "coords": [37.4172765, 55.7270617], "heading": 270.48, "velocity": 10.07, "accuracy": [2.33, 3.35]}
+
+
+data:{"timestamp": 1667472346, "coords": [37.4172321, 55.7270617], "heading": 270.18, "velocity": 9.92, "accuracy": [2.34, 3.36]}
+
+
+data:{"timestamp": 1667472347, "coords": [37.4171885, 55.7270618], "heading": 270.83, "velocity": 9.77, "accuracy": [2.35, 3.38]}
+
+
+data:{"timestamp": 1667472348, "coords": [37.4171456, 55.727062], "heading": 270.75, "velocity": 9.65, "accuracy": [2.36, 3.4]}
+
+
+data:{"timestamp": 1667472349, "coords": [37.4171036, 55.7270621], "heading": 270.38, "velocity": 9.37, "accuracy": [2.37, 3.42]}
+
+
+data:{"timestamp": 1667472350, "coords": [37.4170624, 55.7270625], "heading": 271.31, "velocity": 9.28, "accuracy": [2.38, 3.45]}
+
+
+data:{"timestamp": 1667472351, "coords": [37.4170216, 55.7270627], "heading": 270.6, "velocity": 9.14, "accuracy": [2.39, 3.48]}
+
+
+data:{"timestamp": 1667472352, "coords": [37.4169818, 55.7270627], "heading": 270.56, "velocity": 8.86, "accuracy": [2.41, 3.51]}
+
+
+data:{"timestamp": 1667472353, "coords": [37.4169426, 55.7270627], "heading": 270.52, "velocity": 8.76, "accuracy": [2.42, 3.54]}
+
+
+data:{"timestamp": 1667472354, "coords": [37.4169038, 55.727063], "heading": 271.67, "velocity": 8.71, "accuracy": [2.43, 3.57]}
+
+
+data:{"timestamp": 1667472355, "coords": [37.4168657, 55.7270629], "heading": 270.12, "velocity": 8.54, "accuracy": [2.45, 3.61]}
+
+
+data:{"timestamp": 1667472356, "coords": [37.4168277, 55.7270628], "heading": 270.88, "velocity": 8.56, "accuracy": [2.46, 3.64]}
+
+
+data:{"timestamp": 1667472357, "coords": [37.416791, 55.7270628], "heading": 270.19, "velocity": 8.18, "accuracy": [2.49, 3.67]}
+
+
+data:{"timestamp": 1667472358, "coords": [37.4167546, 55.7270634], "heading": 272.22, "velocity": 8.28, "accuracy": [2.51, 3.71]}
+
+
+data:{"timestamp": 1667472359, "coords": [37.4167188, 55.7270636], "heading": 271.8, "velocity": 8.04, "accuracy": [2.54, 3.75]}
+
+
+data:{"timestamp": 1667472360, "coords": [37.4166836, 55.7270638], "heading": 270.34, "velocity": 7.83, "accuracy": [2.56, 3.78]}
+
+
+data:{"timestamp": 1667472361, "coords": [37.4166488, 55.7270637], "heading": 270.73, "velocity": 7.83, "accuracy": [2.59, 3.82]}
+
+
+data:{"timestamp": 1667472362, "coords": [37.4166144, 55.7270637], "heading": 270.5, "velocity": 7.73, "accuracy": [2.62, 3.86]}
+
+
+data:{"timestamp": 1667472364, "coords": [37.4165479, 55.7270637], "heading": 270.34, "velocity": 7.43, "accuracy": [2.65, 3.91]}
+
+
+data:{"timestamp": 1667472365, "coords": [37.4165154, 55.727064], "heading": 271.39, "velocity": 7.44, "accuracy": [2.66, 3.93]}
+
+
+data:{"timestamp": 1667472366, "coords": [37.416483, 55.7270639], "heading": 269.97, "velocity": 7.35, "accuracy": [2.69, 3.95]}
+
+
+data:{"timestamp": 1667472367, "coords": [37.4164513, 55.7270642], "heading": 271.44, "velocity": 7.14, "accuracy": [2.7, 3.97]}
+
+
+data:{"timestamp": 1667472368, "coords": [37.4164192, 55.7270642], "heading": 271.36, "velocity": 7.22, "accuracy": [2.71, 3.99]}
+
+
+data:{"timestamp": 1667472369, "coords": [37.4163879, 55.7270645], "heading": 271.37, "velocity": 6.99, "accuracy": [2.72, 4.0]}
+
+
+data:{"timestamp": 1667472370, "coords": [37.4163564, 55.7270641], "heading": 270.36, "velocity": 7.0, "accuracy": [2.72, 4.02]}
+
+
+data:{"timestamp": 1667472371, "coords": [37.4163256, 55.7270637], "heading": 270.55, "velocity": 6.88, "accuracy": [2.73, 4.03]}
+
+
+data:{"timestamp": 1667472372, "coords": [37.4162951, 55.7270634], "heading": 271.11, "velocity": 6.84, "accuracy": [2.73, 4.04]}
+
+
+data:{"timestamp": 1667472373, "coords": [37.4162649, 55.7270626], "heading": 269.33, "velocity": 6.76, "accuracy": [2.73, 4.05]}
+
+
+data:{"timestamp": 1667472374, "coords": [37.416235, 55.7270623], "heading": 270.98, "velocity": 6.69, "accuracy": [2.73, 4.06]}
+
+
+data:{"timestamp": 1667472375, "coords": [37.4162054, 55.7270619], "heading": 270.49, "velocity": 6.58, "accuracy": [2.73, 4.07]}
+
+
+data:{"timestamp": 1667472376, "coords": [37.416176, 55.7270614], "heading": 270.6, "velocity": 6.63, "accuracy": [2.73, 4.08]}
+
+
+data:{"timestamp": 1667472377, "coords": [37.4161469, 55.727061], "heading": 270.41, "velocity": 6.52, "accuracy": [2.74, 4.1]}
+
+
+data:{"timestamp": 1667472378, "coords": [37.4161197, 55.7270606], "heading": 270.78, "velocity": 5.97, "accuracy": [2.75, 4.12]}
+
+
+data:{"timestamp": 1667472379, "coords": [37.416099, 55.7270602], "heading": 270.71, "velocity": 4.13, "accuracy": [2.76, 4.14]}
+
+
+data:{"timestamp": 1667472380, "coords": [37.4160864, 55.7270593], "heading": 267.94, "velocity": 2.26, "accuracy": [2.77, 4.16]}
+
+
+data:{"timestamp": 1667472381, "coords": [37.4160786, 55.727059], "heading": 278.32, "velocity": 1.57, "accuracy": [2.79, 4.18]}
+
+
+data:{"timestamp": 1667472382, "coords": [37.4160758, 55.7270582], "heading": 273.0, "velocity": 0.14, "accuracy": [2.8, 4.2]}
+
+
+data:{"timestamp": 1667472383, "coords": [37.4160753, 55.7270573], "heading": 273.0, "velocity": 0.07, "accuracy": [2.81, 4.24]}
+
+
+data:{"timestamp": 1667472384, "coords": [37.4160746, 55.7270561], "heading": 273.0, "velocity": 0.06, "accuracy": [2.82, 4.26]}
+
+
+data:{"timestamp": 1667472385, "coords": [37.4160741, 55.7270551], "heading": 273.0, "velocity": 0.01, "accuracy": [2.83, 4.29]}
+
+
+data:{"timestamp": 1667472386, "coords": [37.4160735, 55.727054], "heading": 273.0, "velocity": 0.09, "accuracy": [2.83, 4.31]}
+
+
+data:{"timestamp": 1667472387, "coords": [37.416073, 55.7270533], "heading": 273.0, "velocity": 0.21, "accuracy": [2.83, 4.33]}
+
+
+data:{"timestamp": 1667472388, "coords": [37.4160725, 55.7270523], "heading": 273.0, "velocity": 0.02, "accuracy": [2.84, 4.34]}
+
+
+data:{"timestamp": 1667472389, "coords": [37.4160719, 55.7270513], "heading": 273.0, "velocity": 0.09, "accuracy": [2.85, 4.36]}
+
+
+data:{"timestamp": 1667472390, "coords": [37.4160715, 55.7270503], "heading": 273.0, "velocity": 0.06, "accuracy": [2.85, 4.38]}
+
+
+data:{"timestamp": 1667472391, "coords": [37.416071, 55.7270494], "heading": 273.0, "velocity": 0.03, "accuracy": [2.86, 4.39]}
+
+
+data:{"timestamp": 1667472392, "coords": [37.4160703, 55.7270486], "heading": 273.0, "velocity": 0.08, "accuracy": [2.86, 4.4]}
+
+
+data:{"timestamp": 1667472393, "coords": [37.4160697, 55.7270474], "heading": 273.0, "velocity": 0.0, "accuracy": [2.86, 4.41]}
+
+
+data:{"timestamp": 1667472394, "coords": [37.416069, 55.7270464], "heading": 273.0, "velocity": 0.08, "accuracy": [2.86, 4.42]}
+
+
+data:{"timestamp": 1667472395, "coords": [37.4160688, 55.7270451], "heading": 273.0, "velocity": 0.13, "accuracy": [2.86, 4.43]}
+
+
+data:{"timestamp": 1667472396, "coords": [37.4160685, 55.727044], "heading": 273.0, "velocity": 0.03, "accuracy": [2.86, 4.43]}
+
+
+data:{"timestamp": 1667472397, "coords": [37.4160678, 55.7270426], "heading": 273.0, "velocity": 0.17, "accuracy": [2.87, 4.44]}
+
+
+data:{"timestamp": 1667472398, "coords": [37.4160673, 55.7270412], "heading": 273.0, "velocity": 0.07, "accuracy": [2.87, 4.45]}
+
+
+data:{"timestamp": 1667472399, "coords": [37.4160667, 55.7270403], "heading": 273.0, "velocity": 0.03, "accuracy": [2.87, 4.45]}
+
+
+data:{"timestamp": 1667472400, "coords": [37.4160662, 55.727039], "heading": 273.0, "velocity": 0.26, "accuracy": [2.88, 4.46]}
+
+
+data:{"timestamp": 1667472401, "coords": [37.4160654, 55.7270378], "heading": 273.0, "velocity": 0.15, "accuracy": [2.88, 4.47]}
+
+
+data:{"timestamp": 1667472402, "coords": [37.4160647, 55.7270366], "heading": 273.0, "velocity": 0.12, "accuracy": [2.89, 4.47]}
+
+
+data:{"timestamp": 1667472403, "coords": [37.416064, 55.7270364], "heading": 273.0, "velocity": 0.09, "accuracy": [2.9, 4.49]}
+
+
+data:{"timestamp": 1667472404, "coords": [37.4160636, 55.727036], "heading": 273.0, "velocity": 0.06, "accuracy": [2.9, 4.5]}
+
+
+data:{"timestamp": 1667472405, "coords": [37.4160632, 55.7270356], "heading": 273.0, "velocity": 0.05, "accuracy": [2.91, 4.51]}
+
+
+data:{"timestamp": 1667472406, "coords": [37.4160625, 55.7270351], "heading": 273.0, "velocity": 0.03, "accuracy": [2.91, 4.52]}
+
+
+data:{"timestamp": 1667472408, "coords": [37.4160618, 55.7270347], "heading": 273.0, "velocity": 0.06, "accuracy": [2.92, 4.54]}
+
+
+data:{"timestamp": 1667472409, "coords": [37.4160616, 55.7270345], "heading": 273.0, "velocity": 0.05, "accuracy": [2.93, 4.56]}
+
+
+data:{"timestamp": 1667472410, "coords": [37.4160615, 55.7270338], "heading": 273.0, "velocity": 0.1, "accuracy": [2.94, 4.57]}
+
+
+data:{"timestamp": 1667472411, "coords": [37.4160616, 55.7270334], "heading": 273.0, "velocity": 0.05, "accuracy": [2.95, 4.58]}
+
+
+data:{"timestamp": 1667472412, "coords": [37.4160617, 55.7270333], "heading": 273.0, "velocity": 0.04, "accuracy": [2.95, 4.59]}
+
+
+data:{"timestamp": 1667472413, "coords": [37.4160617, 55.7270332], "heading": 273.0, "velocity": 0.06, "accuracy": [2.96, 4.6]}
+
+
+data:{"timestamp": 1667472414, "coords": [37.4160615, 55.7270331], "heading": 273.0, "velocity": 0.08, "accuracy": [2.97, 4.61]}
+
+
+data:{"timestamp": 1667472415, "coords": [37.4160614, 55.7270335], "heading": 273.0, "velocity": 0.19, "accuracy": [2.97, 4.62]}
+
+
+data:{"timestamp": 1667472416, "coords": [37.4160614, 55.7270335], "heading": 273.0, "velocity": 0.08, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472417, "coords": [37.4160615, 55.7270337], "heading": 273.0, "velocity": 0.05, "accuracy": [2.98, 4.63]}
+
+
+data:{"timestamp": 1667472418, "coords": [37.4160615, 55.7270339], "heading": 273.0, "velocity": 0.04, "accuracy": [2.98, 4.63]}
+
+
+data:{"timestamp": 1667472419, "coords": [37.4160615, 55.7270336], "heading": 273.0, "velocity": 0.07, "accuracy": [2.98, 4.63]}
+
+
+data:{"timestamp": 1667472420, "coords": [37.416061, 55.7270333], "heading": 273.0, "velocity": 0.05, "accuracy": [2.98, 4.63]}
+
+
+data:{"timestamp": 1667472421, "coords": [37.4160606, 55.7270334], "heading": 273.0, "velocity": 0.12, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472422, "coords": [37.4160599, 55.7270334], "heading": 273.0, "velocity": 0.11, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472423, "coords": [37.4160595, 55.727033], "heading": 273.0, "velocity": 0.1, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472424, "coords": [37.416059, 55.7270329], "heading": 273.0, "velocity": 0.05, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472425, "coords": [37.4160584, 55.7270334], "heading": 273.0, "velocity": 0.06, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472426, "coords": [37.4160579, 55.7270339], "heading": 273.0, "velocity": 0.09, "accuracy": [2.99, 4.62]}
+
+
+data:{"timestamp": 1667472427, "coords": [37.4160574, 55.7270341], "heading": 273.0, "velocity": 0.03, "accuracy": [2.98, 4.62]}
+
+
+data:{"timestamp": 1667472428, "coords": [37.4160569, 55.727034], "heading": 273.0, "velocity": 0.01, "accuracy": [2.98, 4.61]}
+
+
+data:{"timestamp": 1667472429, "coords": [37.4160565, 55.7270344], "heading": 273.0, "velocity": 0.12, "accuracy": [2.98, 4.59]}
+
+
+data:{"timestamp": 1667472430, "coords": [37.4160565, 55.7270346], "heading": 273.0, "velocity": 0.16, "accuracy": [2.98, 4.55]}
+
+
+data:{"timestamp": 1667472431, "coords": [37.4160564, 55.7270348], "heading": 273.0, "velocity": 0.08, "accuracy": [2.98, 4.51]}
+
+
+data:{"timestamp": 1667472432, "coords": [37.4160562, 55.7270348], "heading": 273.0, "velocity": 0.05, "accuracy": [2.98, 4.48]}
+
+
+data:{"timestamp": 1667472433, "coords": [37.4160559, 55.7270347], "heading": 273.0, "velocity": 0.07, "accuracy": [2.98, 4.46]}
+
+
+data:{"timestamp": 1667472434, "coords": [37.4160529, 55.7270353], "heading": 273.0, "velocity": 0.9, "accuracy": [2.98, 4.43]}
+
+
+data:{"timestamp": 1667472435, "coords": [37.4160431, 55.7270352], "heading": 265.36, "velocity": 2.77, "accuracy": [2.97, 4.41]}
+
+
+data:{"timestamp": 1667472436, "coords": [37.4160259, 55.727035], "heading": 269.31, "velocity": 4.45, "accuracy": [2.97, 4.39]}
+
+
+data:{"timestamp": 1667472437, "coords": [37.4160021, 55.7270354], "heading": 270.4, "velocity": 6.02, "accuracy": [2.98, 4.37]}
+
+
+data:{"timestamp": 1667472438, "coords": [37.4159697, 55.7270356], "heading": 269.98, "velocity": 7.91, "accuracy": [2.98, 4.35]}
+
+
+data:{"timestamp": 1667472439, "coords": [37.41593, 55.7270359], "heading": 269.71, "velocity": 9.47, "accuracy": [2.98, 4.33]}
+
+
+data:{"timestamp": 1667472440, "coords": [37.4158832, 55.7270373], "heading": 270.42, "velocity": 10.95, "accuracy": [2.95, 4.28]}
+
+
+data:{"timestamp": 1667472441, "coords": [37.4158282, 55.7270387], "heading": 270.3, "velocity": 12.91, "accuracy": [2.93, 4.22]}
+
+
+data:{"timestamp": 1667472442, "coords": [37.4157649, 55.7270399], "heading": 270.64, "velocity": 14.74, "accuracy": [2.9, 4.17]}
+
+
+data:{"timestamp": 1667472443, "coords": [37.4156937, 55.7270419], "heading": 270.98, "velocity": 16.61, "accuracy": [2.87, 4.11]}
+
+
+data:{"timestamp": 1667472444, "coords": [37.4156149, 55.7270436], "heading": 270.48, "velocity": 18.36, "accuracy": [2.84, 4.06]}
+
+
+data:{"timestamp": 1667472445, "coords": [37.4155292, 55.7270447], "heading": 270.51, "velocity": 19.8, "accuracy": [2.81, 4.01]}
+
+
+data:{"timestamp": 1667472446, "coords": [37.415436, 55.7270462], "heading": 270.58, "velocity": 21.6, "accuracy": [2.77, 3.96]}
+
+
+data:{"timestamp": 1667472447, "coords": [37.4153346, 55.7270479], "heading": 270.58, "velocity": 23.54, "accuracy": [2.73, 3.9]}
+
+
+data:{"timestamp": 1667472448, "coords": [37.4152248, 55.7270496], "heading": 270.67, "velocity": 25.47, "accuracy": [2.7, 3.85]}
+
+
+data:{"timestamp": 1667472449, "coords": [37.4151069, 55.7270509], "heading": 270.59, "velocity": 27.24, "accuracy": [2.68, 3.81]}
+
+
+data:{"timestamp": 1667472450, "coords": [37.4149806, 55.7270522], "heading": 270.52, "velocity": 29.27, "accuracy": [2.66, 3.77]}
+
+
+data:{"timestamp": 1667472451, "coords": [37.4148464, 55.7270535], "heading": 270.65, "velocity": 30.96, "accuracy": [2.65, 3.74]}
+
+
+data:{"timestamp": 1667472452, "coords": [37.4147045, 55.7270548], "heading": 270.81, "velocity": 32.7, "accuracy": [2.64, 3.72]}
+
+
+data:{"timestamp": 1667472453, "coords": [37.4145578, 55.7270563], "heading": 270.63, "velocity": 33.47, "accuracy": [2.62, 3.69]}
+
+
+data:{"timestamp": 1667472454, "coords": [37.4144097, 55.7270579], "heading": 270.83, "velocity": 33.62, "accuracy": [2.6, 3.67]}
+
+
+data:{"timestamp": 1667472456, "coords": [37.4141135, 55.7270602], "heading": 270.95, "velocity": 33.44, "accuracy": [2.58, 3.64]}
+
+
+data:{"timestamp": 1667472457, "coords": [37.4139662, 55.7270614], "heading": 270.67, "velocity": 33.37, "accuracy": [2.57, 3.63]}
+
+
+data:{"timestamp": 1667472458, "coords": [37.4138198, 55.7270625], "heading": 270.86, "velocity": 33.18, "accuracy": [2.56, 3.61]}
+
+
+data:{"timestamp": 1667472459, "coords": [37.4136731, 55.7270636], "heading": 270.82, "velocity": 33.23, "accuracy": [2.55, 3.59]}
+
+
+data:{"timestamp": 1667472460, "coords": [37.4135268, 55.7270643], "heading": 270.48, "velocity": 33.07, "accuracy": [2.54, 3.57]}
+
+
+data:{"timestamp": 1667472461, "coords": [37.4133815, 55.7270668], "heading": 272.23, "velocity": 32.91, "accuracy": [2.53, 3.57]}
+
+
+data:{"timestamp": 1667472462, "coords": [37.4132371, 55.7270718], "heading": 274.02, "velocity": 32.67, "accuracy": [2.54, 3.58]}
+
+
+data:{"timestamp": 1667472463, "coords": [37.4130928, 55.7270792], "heading": 275.3, "velocity": 32.75, "accuracy": [2.56, 3.6]}
+
+
+data:{"timestamp": 1667472464, "coords": [37.4129492, 55.7270881], "heading": 276.11, "velocity": 32.57, "accuracy": [2.57, 3.62]}
+
+
+data:{"timestamp": 1667472465, "coords": [37.4128073, 55.7270953], "heading": 273.22, "velocity": 32.22, "accuracy": [2.58, 3.62]}
+
+
+data:{"timestamp": 1667472466, "coords": [37.412665, 55.727103], "heading": 276.34, "velocity": 32.39, "accuracy": [2.58, 3.64]}
+
+
+data:{"timestamp": 1667472467, "coords": [37.412523, 55.7271132], "heading": 277.59, "velocity": 32.35, "accuracy": [2.6, 3.67]}
+
+
+data:{"timestamp": 1667472468, "coords": [37.4123819, 55.7271242], "heading": 277.85, "velocity": 32.31, "accuracy": [2.62, 3.72]}
+
+
+data:{"timestamp": 1667472469, "coords": [37.4122414, 55.7271367], "heading": 279.38, "velocity": 32.23, "accuracy": [2.67, 3.81]}
+
+
+data:{"timestamp": 1667472470, "coords": [37.4121015, 55.7271495], "heading": 279.34, "velocity": 32.01, "accuracy": [2.72, 3.88]}
+
+
+data:{"timestamp": 1667472471, "coords": [37.4119629, 55.7271635], "heading": 280.39, "velocity": 31.91, "accuracy": [2.78, 3.94]}
+
+
+data:{"timestamp": 1667472472, "coords": [37.4118257, 55.7271769], "heading": 280.62, "velocity": 31.62, "accuracy": [2.83, 4.0]}
+
+
+data:{"timestamp": 1667472473, "coords": [37.4116895, 55.7271915], "heading": 281.57, "velocity": 31.4, "accuracy": [2.89, 4.05]}
+
+
+data:{"timestamp": 1667472474, "coords": [37.4115538, 55.7272076], "heading": 282.32, "velocity": 31.47, "accuracy": [2.91, 4.03]}
+
+
+data:{"timestamp": 1667472475, "coords": [37.4114188, 55.7272244], "heading": 282.85, "velocity": 31.36, "accuracy": [2.88, 3.96]}
+
+
+data:{"timestamp": 1667472476, "coords": [37.4112848, 55.7272425], "heading": 283.87, "velocity": 31.31, "accuracy": [2.85, 3.92]}
+
+
+data:{"timestamp": 1667472477, "coords": [37.4111502, 55.7272625], "heading": 284.78, "velocity": 31.66, "accuracy": [2.84, 3.89]}
+
+
+data:{"timestamp": 1667472478, "coords": [37.4110133, 55.727284], "heading": 285.38, "velocity": 32.41, "accuracy": [2.84, 3.85]}
+
+
+data:{"timestamp": 1667472479, "coords": [37.410873, 55.7273066], "heading": 285.95, "velocity": 33.35, "accuracy": [2.86, 3.83]}
+
+
+data:{"timestamp": 1667472480, "coords": [37.4107284, 55.7273305], "heading": 286.4, "velocity": 34.49, "accuracy": [2.87, 3.82]}
+
+
+data:{"timestamp": 1667472481, "coords": [37.4105815, 55.7273558], "heading": 286.89, "velocity": 34.85, "accuracy": [2.86, 3.75]}
+
+
+data:{"timestamp": 1667472482, "coords": [37.4104349, 55.7273813], "heading": 286.93, "velocity": 34.6, "accuracy": [2.85, 3.71]}
+
+
+data:{"timestamp": 1667472483, "coords": [37.4102895, 55.7274062], "heading": 286.85, "velocity": 34.23, "accuracy": [2.84, 3.7]}
+
+
+data:{"timestamp": 1667472484, "coords": [37.4101454, 55.7274304], "heading": 286.19, "velocity": 33.87, "accuracy": [2.85, 3.7]}
+
+
+data:{"timestamp": 1667472485, "coords": [37.4100027, 55.7274553], "heading": 287.38, "velocity": 33.69, "accuracy": [2.87, 3.7]}
+
+
+data:{"timestamp": 1667472486, "coords": [37.4098617, 55.7274803], "heading": 287.39, "velocity": 33.16, "accuracy": [2.88, 3.68]}
+
+
+data:{"timestamp": 1667472487, "coords": [37.409722, 55.7275044], "heading": 286.88, "velocity": 32.92, "accuracy": [2.88, 3.66]}
+
+
+data:{"timestamp": 1667472488, "coords": [37.4095837, 55.7275273], "heading": 286.33, "velocity": 32.49, "accuracy": [2.89, 3.63]}
+
+
+data:{"timestamp": 1667472489, "coords": [37.4094462, 55.7275496], "heading": 286.38, "velocity": 32.3, "accuracy": [2.9, 3.61]}
+
+
+data:{"timestamp": 1667472490, "coords": [37.4093095, 55.7275716], "heading": 286.41, "velocity": 32.04, "accuracy": [2.93, 3.6]}
+
+
+data:{"timestamp": 1667472491, "coords": [37.4091747, 55.7275929], "heading": 286.0, "velocity": 31.58, "accuracy": [2.95, 3.58]}
+
+
+data:{"timestamp": 1667472492, "coords": [37.4090424, 55.7276137], "heading": 285.4, "velocity": 31.1, "accuracy": [2.95, 3.57]}
+
+
+data:{"timestamp": 1667472493, "coords": [37.4089112, 55.7276337], "heading": 285.32, "velocity": 30.69, "accuracy": [2.96, 3.6]}
+
+
+data:{"timestamp": 1667472494, "coords": [37.4087805, 55.7276529], "heading": 284.29, "velocity": 30.37, "accuracy": [2.99, 3.6]}
+
+
+data:{"timestamp": 1667472495, "coords": [37.4086509, 55.7276722], "heading": 284.11, "velocity": 30.09, "accuracy": [2.99, 3.58]}
+
+
+data:{"timestamp": 1667472496, "coords": [37.4085225, 55.7276906], "heading": 283.83, "velocity": 29.99, "accuracy": [2.98, 3.57]}
+
+
+data:{"timestamp": 1667472497, "coords": [37.4083898, 55.7277086], "heading": 282.89, "velocity": 31.2, "accuracy": [2.97, 3.58]}
+
+
+data:{"timestamp": 1667472498, "coords": [37.4082511, 55.7277274], "heading": 283.13, "velocity": 32.65, "accuracy": [2.96, 3.57]}
+
+
+data:{"timestamp": 1667472499, "coords": [37.4081068, 55.727747], "heading": 282.8, "velocity": 33.77, "accuracy": [2.95, 3.58]}
+
+
+data:{"timestamp": 1667472501, "coords": [37.4077991, 55.7277879], "heading": 283.05, "velocity": 37.06, "accuracy": [2.97, 3.59]}
+
+
+data:{"timestamp": 1667472502, "coords": [37.4076337, 55.72781], "heading": 283.36, "velocity": 38.77, "accuracy": [2.97, 3.58]}
+
+
+data:{"timestamp": 1667472503, "coords": [37.4074618, 55.7278328], "heading": 283.42, "velocity": 40.18, "accuracy": [2.95, 3.57]}
+
+
+data:{"timestamp": 1667472504, "coords": [37.4072831, 55.7278566], "heading": 283.32, "velocity": 41.88, "accuracy": [2.94, 3.59]}
+
+
+data:{"timestamp": 1667472505, "coords": [37.4070987, 55.7278812], "heading": 283.48, "velocity": 43.22, "accuracy": [2.94, 3.59]}
+
+
+data:{"timestamp": 1667472506, "coords": [37.4069075, 55.7279064], "heading": 283.42, "velocity": 44.91, "accuracy": [2.94, 3.57]}
+
+
+data:{"timestamp": 1667472507, "coords": [37.4067095, 55.7279326], "heading": 283.39, "velocity": 46.45, "accuracy": [2.91, 3.54]}
+
+
+data:{"timestamp": 1667472508, "coords": [37.4065059, 55.7279597], "heading": 283.37, "velocity": 47.66, "accuracy": [2.89, 3.51]}
+
+
+data:{"timestamp": 1667472509, "coords": [37.4062969, 55.7279867], "heading": 283.19, "velocity": 48.81, "accuracy": [2.88, 3.48]}
+
+
+data:{"timestamp": 1667472510, "coords": [37.4060826, 55.7280149], "heading": 283.25, "velocity": 50.2, "accuracy": [2.87, 3.48]}
+
+
+data:{"timestamp": 1667472511, "coords": [37.4058641, 55.7280441], "heading": 283.31, "velocity": 51.17, "accuracy": [2.95, 3.55]}
+
+
+data:{"timestamp": 1667472512, "coords": [37.4056459, 55.7280744], "heading": 283.95, "velocity": 50.8, "accuracy": [3.29, 3.7]}
+
+
+data:{"timestamp": 1667472513, "coords": [37.4054193, 55.7281024], "heading": 282.27, "velocity": 53.29, "accuracy": [3.69, 3.93]}
+
+
+data:{"timestamp": 1667472514, "coords": [37.4051796, 55.7281334], "heading": 283.21, "velocity": 56.42, "accuracy": [3.89, 4.08]}
+
+
+data:{"timestamp": 1667472515, "coords": [37.4049333, 55.7281665], "heading": 283.64, "velocity": 57.73, "accuracy": [3.93, 4.16]}
+
+
+data:{"timestamp": 1667472516, "coords": [37.4046798, 55.7282003], "heading": 283.5, "velocity": 59.33, "accuracy": [3.9, 4.12]}
+
+
+data:{"timestamp": 1667472517, "coords": [37.4044197, 55.7282346], "heading": 283.44, "velocity": 60.83, "accuracy": [3.86, 4.08]}
+
+
+data:{"timestamp": 1667472518, "coords": [37.4041538, 55.7282688], "heading": 283.17, "velocity": 62.25, "accuracy": [3.83, 4.07]}
+
+
+data:{"timestamp": 1667472519, "coords": [37.4038814, 55.7283053], "heading": 283.63, "velocity": 63.75, "accuracy": [3.81, 4.08]}
+
+
+data:{"timestamp": 1667472520, "coords": [37.4036026, 55.7283424], "heading": 283.36, "velocity": 65.33, "accuracy": [3.78, 4.06]}
+
+
+data:{"timestamp": 1667472521, "coords": [37.4033172, 55.7283811], "heading": 283.55, "velocity": 66.81, "accuracy": [3.77, 4.04]}
+
+
+data:{"timestamp": 1667472522, "coords": [37.4030255, 55.7284212], "heading": 283.49, "velocity": 68.19, "accuracy": [3.75, 4.04]}
+
+
+data:{"timestamp": 1667472523, "coords": [37.4027281, 55.7284625], "heading": 283.6, "velocity": 69.42, "accuracy": [3.74, 4.04]}
+
+
+data:{"timestamp": 1667472524, "coords": [37.4024258, 55.7285041], "heading": 283.42, "velocity": 70.52, "accuracy": [3.72, 4.04]}
+
+
+data:{"timestamp": 1667472525, "coords": [37.4021186, 55.7285465], "heading": 283.55, "velocity": 71.79, "accuracy": [3.7, 4.03]}
+
+
+data:{"timestamp": 1667472526, "coords": [37.4018058, 55.7285893], "heading": 283.47, "velocity": 73.06, "accuracy": [3.68, 4.02]}
+
+
+data:{"timestamp": 1667472527, "coords": [37.4014877, 55.7286326], "heading": 283.29, "velocity": 74.35, "accuracy": [3.65, 3.99]}
+
+
+data:{"timestamp": 1667472528, "coords": [37.4011642, 55.7286764], "heading": 283.44, "velocity": 75.45, "accuracy": [3.64, 3.98]}
+
+
+data:{"timestamp": 1667472529, "coords": [37.4008362, 55.7287212], "heading": 283.45, "velocity": 76.47, "accuracy": [3.63, 3.98]}
+
+
+data:{"timestamp": 1667472530, "coords": [37.4005047, 55.7287658], "heading": 283.4, "velocity": 77.29, "accuracy": [3.62, 3.98]}
+
+
+data:{"timestamp": 1667472531, "coords": [37.4001727, 55.7288109], "heading": 283.42, "velocity": 77.16, "accuracy": [3.62, 3.99]}
+
+
+data:{"timestamp": 1667472532, "coords": [37.3998416, 55.7288558], "heading": 283.42, "velocity": 76.85, "accuracy": [3.6, 3.98]}
+
+
+data:{"timestamp": 1667472533, "coords": [37.3995114, 55.7289008], "heading": 283.5, "velocity": 76.71, "accuracy": [3.58, 3.97]}
+
+
+data:{"timestamp": 1667472534, "coords": [37.3991819, 55.7289465], "heading": 283.5, "velocity": 76.52, "accuracy": [3.54, 3.94]}
+
+
+data:{"timestamp": 1667472535, "coords": [37.398853, 55.7289926], "heading": 283.51, "velocity": 76.27, "accuracy": [3.46, 3.87]}
+
+
+data:{"timestamp": 1667472536, "coords": [37.3985252, 55.7290373], "heading": 283.51, "velocity": 76.1, "accuracy": [3.38, 3.8]}
+
+
+data:{"timestamp": 1667472537, "coords": [37.3981984, 55.7290817], "heading": 283.57, "velocity": 75.81, "accuracy": [3.31, 3.74]}
+
+
+data:{"timestamp": 1667472538, "coords": [37.3978722, 55.7291256], "heading": 283.38, "velocity": 75.62, "accuracy": [3.24, 3.67]}
+
+
+data:{"timestamp": 1667472539, "coords": [37.3975468, 55.7291689], "heading": 283.38, "velocity": 75.48, "accuracy": [3.18, 3.61]}
+
+
+data:{"timestamp": 1667472540, "coords": [37.397222, 55.7292121], "heading": 283.38, "velocity": 75.31, "accuracy": [3.13, 3.56]}
+
+
+data:{"timestamp": 1667472541, "coords": [37.3968981, 55.7292555], "heading": 283.42, "velocity": 75.14, "accuracy": [3.08, 3.52]}
+
+
+data:{"timestamp": 1667472542, "coords": [37.3965745, 55.7292988], "heading": 283.3, "velocity": 75.02, "accuracy": [3.04, 3.48]}
+
+
+data:{"timestamp": 1667472543, "coords": [37.3962516, 55.7293426], "heading": 283.38, "velocity": 74.8, "accuracy": [2.99, 3.44]}
+
+
+data:{"timestamp": 1667472544, "coords": [37.3959299, 55.7293867], "heading": 283.75, "velocity": 74.77, "accuracy": [2.96, 3.43]}
+
+
+data:{"timestamp": 1667472545, "coords": [37.3956084, 55.7294302], "heading": 283.42, "velocity": 74.63, "accuracy": [2.93, 3.4]}
+
+
+data:{"timestamp": 1667472546, "coords": [37.3952868, 55.7294739], "heading": 283.62, "velocity": 74.72, "accuracy": [2.9, 3.39]}
+
+
+data:{"timestamp": 1667472547, "coords": [37.394965, 55.7295174], "heading": 283.4, "velocity": 74.76, "accuracy": [2.9, 3.4]}
+
+
+data:{"timestamp": 1667472548, "coords": [37.3946427, 55.7295606], "heading": 283.26, "velocity": 74.78, "accuracy": [2.9, 3.41]}
+
+
+data:{"timestamp": 1667472549, "coords": [37.3943202, 55.7296037], "heading": 283.28, "velocity": 74.91, "accuracy": [2.9, 3.41]}
+
+
+data:{"timestamp": 1667472550, "coords": [37.3939976, 55.7296475], "heading": 283.68, "velocity": 74.99, "accuracy": [2.93, 3.43]}
+
+
+data:{"timestamp": 1667472552, "coords": [37.3933509, 55.7297366], "heading": 283.48, "velocity": 75.1, "accuracy": [2.97, 3.48]}
+
+
+data:{"timestamp": 1667472553, "coords": [37.3930267, 55.72978], "heading": 283.05, "velocity": 75.35, "accuracy": [2.99, 3.51]}
+
+
+data:{"timestamp": 1667472554, "coords": [37.3927008, 55.7298211], "heading": 282.22, "velocity": 75.56, "accuracy": [3.01, 3.52]}
+
+
+data:{"timestamp": 1667472555, "coords": [37.3923734, 55.7298582], "heading": 280.84, "velocity": 75.49, "accuracy": [3.03, 3.54]}
+
+
+data:{"timestamp": 1667472556, "coords": [37.3920437, 55.729891], "heading": 279.58, "velocity": 75.83, "accuracy": [3.06, 3.58]}
+
+
+data:{"timestamp": 1667472557, "coords": [37.3917117, 55.729919], "heading": 277.95, "velocity": 75.86, "accuracy": [3.08, 3.62]}
+
+
+data:{"timestamp": 1667472558, "coords": [37.3913782, 55.7299412], "heading": 276.1, "velocity": 75.96, "accuracy": [3.09, 3.65]}
+
+
+data:{"timestamp": 1667472559, "coords": [37.3910429, 55.7299587], "heading": 274.87, "velocity": 76.11, "accuracy": [3.12, 3.69]}
+
+
+data:{"timestamp": 1667472560, "coords": [37.3907064, 55.7299696], "heading": 272.84, "velocity": 76.14, "accuracy": [3.14, 3.73]}
+
+
+data:{"timestamp": 1667472561, "coords": [37.3903691, 55.7299741], "heading": 270.95, "velocity": 76.17, "accuracy": [3.16, 3.77]}
+
+
+data:{"timestamp": 1667472562, "coords": [37.3900311, 55.7299725], "heading": 269.13, "velocity": 76.34, "accuracy": [3.18, 3.81]}
+
+
+data:{"timestamp": 1667472563, "coords": [37.3896922, 55.7299659], "heading": 267.31, "velocity": 76.58, "accuracy": [3.17, 3.82]}
+
+
+data:{"timestamp": 1667472564, "coords": [37.3893536, 55.7299532], "heading": 265.81, "velocity": 76.64, "accuracy": [3.19, 3.84]}
+
+
+data:{"timestamp": 1667472565, "coords": [37.3890152, 55.7299342], "heading": 263.82, "velocity": 76.81, "accuracy": [3.22, 3.86]}
+
+
+data:{"timestamp": 1667472566, "coords": [37.3886777, 55.7299091], "heading": 262.01, "velocity": 76.94, "accuracy": [3.25, 3.89]}
+
+
+data:{"timestamp": 1667472567, "coords": [37.3883407, 55.7298783], "heading": 260.2, "velocity": 77.18, "accuracy": [3.29, 3.92]}
+
+
+data:{"timestamp": 1667472568, "coords": [37.3880062, 55.72984], "heading": 258.11, "velocity": 77.12, "accuracy": [3.32, 3.96]}
+
+
+data:{"timestamp": 1667472569, "coords": [37.3876734, 55.7297956], "heading": 256.37, "velocity": 77.38, "accuracy": [3.33, 3.98]}
+
+
+data:{"timestamp": 1667472570, "coords": [37.3873423, 55.7297466], "heading": 254.8, "velocity": 77.36, "accuracy": [3.33, 3.98]}
+
+
+data:{"timestamp": 1667472571, "coords": [37.3870142, 55.7296915], "heading": 252.88, "velocity": 77.37, "accuracy": [3.33, 4.0]}
+
+
+data:{"timestamp": 1667472572, "coords": [37.3866912, 55.7296314], "heading": 251.23, "velocity": 76.63, "accuracy": [3.33, 4.0]}
+
+
+data:{"timestamp": 1667472573, "coords": [37.3863747, 55.7295679], "heading": 249.87, "velocity": 75.78, "accuracy": [3.33, 4.0]}
+
+
+data:{"timestamp": 1667472574, "coords": [37.3860624, 55.729503], "heading": 249.38, "velocity": 75.11, "accuracy": [3.32, 4.0]}
+
+
+data:{"timestamp": 1667472575, "coords": [37.3857527, 55.729438], "heading": 249.15, "velocity": 74.62, "accuracy": [3.31, 4.0]}
+
+
+data:{"timestamp": 1667472576, "coords": [37.3854457, 55.7293719], "heading": 248.95, "velocity": 74.16, "accuracy": [3.31, 4.03]}
+
+
+data:{"timestamp": 1667472577, "coords": [37.3851414, 55.729306], "heading": 248.76, "velocity": 73.58, "accuracy": [3.31, 4.03]}
+
+
+data:{"timestamp": 1667472578, "coords": [37.3848396, 55.7292402], "heading": 248.67, "velocity": 73.0, "accuracy": [3.31, 4.04]}
+
+
+data:{"timestamp": 1667472579, "coords": [37.3845416, 55.7291755], "heading": 248.83, "velocity": 71.91, "accuracy": [3.31, 4.05]}
+
+
+data:{"timestamp": 1667472580, "coords": [37.3842477, 55.7291131], "heading": 249.26, "velocity": 70.7, "accuracy": [3.32, 4.08]}
+
+
+data:{"timestamp": 1667472581, "coords": [37.383958, 55.7290541], "heading": 250.25, "velocity": 69.27, "accuracy": [3.35, 4.12]}
+
+
+data:{"timestamp": 1667472582, "coords": [37.3836719, 55.729], "heading": 251.53, "velocity": 67.84, "accuracy": [3.39, 4.19]}
+
+
+data:{"timestamp": 1667472583, "coords": [37.3833904, 55.7289514], "heading": 253.37, "velocity": 66.12, "accuracy": [3.43, 4.27]}
+
+
+data:{"timestamp": 1667472584, "coords": [37.3831125, 55.7289093], "heading": 255.21, "velocity": 64.71, "accuracy": [3.48, 4.37]}
+
+
+data:{"timestamp": 1667472585, "coords": [37.3828358, 55.728874], "heading": 257.84, "velocity": 64.02, "accuracy": [3.67, 4.53]}
+
+
+data:{"timestamp": 1667472586, "coords": [37.3825604, 55.7288417], "heading": 258.55, "velocity": 63.69, "accuracy": [3.92, 4.74]}
+
+
+data:{"timestamp": 1667472587, "coords": [37.3822911, 55.7288117], "heading": 258.62, "velocity": 61.57, "accuracy": [4.13, 5.02]}
+
+
+data:{"timestamp": 1667472588, "coords": [37.3820215, 55.7287862], "heading": 261.52, "velocity": 62.03, "accuracy": [4.26, 5.29]}
+
+
+data:{"timestamp": 1667472589, "coords": [37.3817482, 55.7287648], "heading": 262.53, "velocity": 62.2, "accuracy": [4.36, 5.26]}
+
+
+data:{"timestamp": 1667472590, "coords": [37.3814735, 55.7287473], "heading": 264.19, "velocity": 62.63, "accuracy": [4.55, 5.5]}
+
+
+data:{"timestamp": 1667472591, "coords": [37.3811984, 55.7287341], "heading": 265.65, "velocity": 62.34, "accuracy": [4.75, 5.72]}
+
+
+data:{"timestamp": 1667472592, "coords": [37.3809256, 55.7287257], "heading": 266.67, "velocity": 61.55, "accuracy": [4.91, 5.89]}
+
+
+data:{"timestamp": 1667472593, "coords": [37.3806513, 55.7287268], "heading": 270.45, "velocity": 62.1, "accuracy": [4.96, 6.04]}
+
+
+data:{"timestamp": 1667472594, "coords": [37.3803749, 55.7287279], "heading": 269.35, "velocity": 62.33, "accuracy": [5.11, 6.26]}
+
+
+data:{"timestamp": 1667472595, "coords": [37.380092, 55.7287462], "heading": 273.55, "velocity": 63.96, "accuracy": [5.08, 6.31]}
+
+
+data:{"timestamp": 1667472596, "coords": [37.379808, 55.7287655], "heading": 275.25, "velocity": 64.45, "accuracy": [4.92, 6.42]}
+
+
+data:{"timestamp": 1667472597, "coords": [37.3795194, 55.7287832], "heading": 276.33, "velocity": 65.63, "accuracy": [4.92, 6.63]}
+
+
+data:{"timestamp": 1667472598, "coords": [37.3792338, 55.7288047], "heading": 277.68, "velocity": 64.57, "accuracy": [4.92, 6.89]}
+
+
+data:{"timestamp": 1667472599, "coords": [37.3789516, 55.7288279], "heading": 278.91, "velocity": 64.52, "accuracy": [4.97, 7.2]}
+
+
+data:{"timestamp": 1667472600, "coords": [37.3786808, 55.7288535], "heading": 279.54, "velocity": 61.37, "accuracy": [5.14, 7.58]}
+
+
+data:{"timestamp": 1667472601, "coords": [37.3784126, 55.7288839], "heading": 281.95, "velocity": 61.37, "accuracy": [5.47, 8.07]}
+
+
+data:{"timestamp": 1667472602, "coords": [37.378135, 55.7289143], "heading": 280.55, "velocity": 63.96, "accuracy": [6.14, 8.68]}
+
+
+data:{"timestamp": 1667472603, "coords": [37.3778468, 55.7289502], "heading": 282.74, "velocity": 65.97, "accuracy": [7.22, 9.42]}
+
+
+data:{"timestamp": 1667472604, "coords": [37.3776032, 55.7290063], "heading": 289.68, "velocity": 61.06, "accuracy": [7.59, 10.08]}
+
+
+data:{"timestamp": 1667472605, "coords": [37.3773433, 55.7290551], "heading": 288.24, "velocity": 63.03, "accuracy": [7.99, 10.66]}
+
+
+data:{"timestamp": 1667472606, "coords": [37.3770881, 55.7291158], "heading": 292.27, "velocity": 63.05, "accuracy": [8.2, 11.03]}
+
+
+data:{"timestamp": 1667472607, "coords": [37.3768357, 55.7291806], "heading": 295.7, "velocity": 64.61, "accuracy": [8.25, 10.07]}
+
+
+data:{"timestamp": 1667472608, "coords": [37.3765821, 55.7292477], "heading": 295.14, "velocity": 63.76, "accuracy": [8.17, 9.39]}
+
+
+data:{"timestamp": 1667472609, "coords": [37.3763248, 55.7293187], "heading": 295.44, "velocity": 64.2, "accuracy": [8.01, 9.04]}
+
+
+data:{"timestamp": 1667472610, "coords": [37.3760702, 55.7293906], "heading": 295.78, "velocity": 63.48, "accuracy": [7.88, 8.85]}
+
+
+data:{"timestamp": 1667472611, "coords": [37.3758168, 55.7294667], "heading": 297.4, "velocity": 64.17, "accuracy": [7.8, 8.72]}
+
+
+data:{"timestamp": 1667472612, "coords": [37.3755637, 55.7295439], "heading": 297.9, "velocity": 64.41, "accuracy": [7.78, 8.57]}
+
+
+data:{"timestamp": 1667472613, "coords": [37.3753154, 55.7296247], "heading": 298.98, "velocity": 64.71, "accuracy": [7.65, 8.32]}
+
+
+data:{"timestamp": 1667472614, "coords": [37.375066, 55.7297066], "heading": 299.71, "velocity": 65.17, "accuracy": [7.5, 8.14]}
+
+
+data:{"timestamp": 1667472615, "coords": [37.3748194, 55.729786], "heading": 300.06, "velocity": 65.27, "accuracy": [7.27, 7.81]}
+
+
+data:{"timestamp": 1667472616, "coords": [37.374567, 55.7298665], "heading": 299.09, "velocity": 65.57, "accuracy": [7.07, 7.53]}
+
+
+data:{"timestamp": 1667472617, "coords": [37.3743142, 55.7299488], "heading": 298.74, "velocity": 65.63, "accuracy": [6.81, 7.1]}
+
+
+data:{"timestamp": 1667472618, "coords": [37.3740588, 55.730023], "heading": 296.66, "velocity": 64.9, "accuracy": [6.65, 6.84]}
+
+
+data:{"timestamp": 1667472619, "coords": [37.3737986, 55.7300916], "heading": 294.38, "velocity": 65.08, "accuracy": [6.53, 6.69]}
+
+
+data:{"timestamp": 1667472620, "coords": [37.3735283, 55.7301554], "heading": 292.18, "velocity": 66.03, "accuracy": [6.4, 6.57]}
+
+
+data:{"timestamp": 1667472621, "coords": [37.3732594, 55.7302131], "heading": 290.37, "velocity": 64.75, "accuracy": [6.33, 6.55]}
+
+
+data:{"timestamp": 1667472622, "coords": [37.3729831, 55.730261], "heading": 285.92, "velocity": 64.94, "accuracy": [6.32, 6.6]}
+
+
+data:{"timestamp": 1667472623, "coords": [37.3727044, 55.7302983], "heading": 282.44, "velocity": 63.91, "accuracy": [6.32, 6.74]}
+
+
+data:{"timestamp": 1667472624, "coords": [37.372419, 55.7303331], "heading": 278.94, "velocity": 63.96, "accuracy": [6.24, 6.94]}
+
+
+data:{"timestamp": 1667472625, "coords": [37.3721331, 55.7303578], "heading": 276.16, "velocity": 64.22, "accuracy": [6.14, 7.19]}
+
+
+data:{"timestamp": 1667472626, "coords": [37.3718579, 55.7303771], "heading": 274.05, "velocity": 59.73, "accuracy": [6.0, 7.44]}
+
+
+data:{"timestamp": 1667472627, "coords": [37.3715747, 55.7303839], "heading": 271.41, "velocity": 62.09, "accuracy": [5.82, 6.88]}
+
+
+data:{"timestamp": 1667472628, "coords": [37.3712929, 55.7303793], "heading": 267.32, "velocity": 61.55, "accuracy": [5.64, 6.24]}
+
+
+data:{"timestamp": 1667472629, "coords": [37.3710155, 55.7303677], "heading": 264.99, "velocity": 61.41, "accuracy": [5.56, 6.09]}
+
+
+data:{"timestamp": 1667472630, "coords": [37.3707468, 55.7303451], "heading": 261.14, "velocity": 60.95, "accuracy": [5.55, 6.11]}
+
+
+data:{"timestamp": 1667472631, "coords": [37.3704831, 55.7303204], "heading": 258.95, "velocity": 60.23, "accuracy": [5.53, 6.2]}
+
+
+data:{"timestamp": 1667472632, "coords": [37.3702225, 55.7302888], "heading": 256.81, "velocity": 60.11, "accuracy": [5.54, 6.33]}
+
+
+data:{"timestamp": 1667472633, "coords": [37.3699643, 55.7302512], "heading": 254.13, "velocity": 59.37, "accuracy": [5.46, 6.25]}
+
+
+data:{"timestamp": 1667472634, "coords": [37.3697124, 55.7302091], "heading": 252.63, "velocity": 58.44, "accuracy": [5.33, 6.06]}
+
+
+data:{"timestamp": 1667472635, "coords": [37.369466, 55.7301664], "heading": 252.25, "velocity": 57.75, "accuracy": [5.2, 5.95]}
+
+
+data:{"timestamp": 1667472636, "coords": [37.3692242, 55.7301216], "heading": 251.52, "velocity": 57.06, "accuracy": [5.06, 5.82]}
+
+
+data:{"timestamp": 1667472637, "coords": [37.3689862, 55.730077], "heading": 251.41, "velocity": 56.35, "accuracy": [4.9, 5.69]}
+
+
+data:{"timestamp": 1667472638, "coords": [37.3687512, 55.730032], "heading": 251.31, "velocity": 55.83, "accuracy": [4.72, 5.57]}
+
+
+data:{"timestamp": 1667472639, "coords": [37.3685196, 55.7299874], "heading": 251.23, "velocity": 55.13, "accuracy": [4.57, 5.45]}
+
+
+data:{"timestamp": 1667472641, "coords": [37.3680619, 55.7298981], "heading": 251.35, "velocity": 54.27, "accuracy": [4.28, 5.22]}
+
+
+data:{"timestamp": 1667472642, "coords": [37.3678357, 55.7298534], "heading": 251.22, "velocity": 53.82, "accuracy": [4.15, 5.09]}
+
+
+data:{"timestamp": 1667472643, "coords": [37.3676109, 55.7298095], "heading": 251.25, "velocity": 53.43, "accuracy": [4.03, 4.99]}
+
+
+data:{"timestamp": 1667472644, "coords": [37.3673874, 55.729766], "heading": 251.21, "velocity": 53.09, "accuracy": [3.92, 4.89]}
+
+
+data:{"timestamp": 1667472645, "coords": [37.3671656, 55.7297234], "heading": 251.45, "velocity": 52.69, "accuracy": [3.82, 4.79]}
+
+
+data:{"timestamp": 1667472646, "coords": [37.3669449, 55.7296811], "heading": 251.39, "velocity": 52.35, "accuracy": [3.72, 4.69]}
+
+
+data:{"timestamp": 1667472647, "coords": [37.3667255, 55.7296392], "heading": 251.44, "velocity": 51.94, "accuracy": [3.6, 4.56]}
+
+
+data:{"timestamp": 1667472648, "coords": [37.3665077, 55.7295978], "heading": 251.32, "velocity": 51.6, "accuracy": [3.5, 4.45]}
+
+
+data:{"timestamp": 1667472649, "coords": [37.3662917, 55.7295565], "heading": 251.53, "velocity": 51.28, "accuracy": [3.43, 4.37]}
+
+
+data:{"timestamp": 1667472650, "coords": [37.3660773, 55.7295153], "heading": 251.3, "velocity": 50.93, "accuracy": [3.36, 4.31]}
+
+
+data:{"timestamp": 1667472651, "coords": [37.3658639, 55.7294742], "heading": 251.34, "velocity": 50.77, "accuracy": [3.3, 4.25]}
+
+
+data:{"timestamp": 1667472652, "coords": [37.3656514, 55.7294337], "heading": 251.29, "velocity": 50.46, "accuracy": [3.25, 4.2]}
+
+
+data:{"timestamp": 1667472653, "coords": [37.3654404, 55.7293931], "heading": 251.23, "velocity": 50.19, "accuracy": [3.2, 4.14]}
+
+
+data:{"timestamp": 1667472654, "coords": [37.3652299, 55.7293538], "heading": 251.96, "velocity": 49.93, "accuracy": [3.15, 4.1]}
+
+
+data:{"timestamp": 1667472655, "coords": [37.36502, 55.7293154], "heading": 252.06, "velocity": 49.72, "accuracy": [3.11, 4.05]}
+
+
+data:{"timestamp": 1667472656, "coords": [37.3648104, 55.7292786], "heading": 253.02, "velocity": 49.45, "accuracy": [3.07, 4.01]}
+
+
+data:{"timestamp": 1667472657, "coords": [37.3646004, 55.7292449], "heading": 254.63, "velocity": 49.18, "accuracy": [3.03, 3.98]}
+
+
+data:{"timestamp": 1667472658, "coords": [37.3643897, 55.7292158], "heading": 257.0, "velocity": 48.85, "accuracy": [3.0, 3.95]}
+
+
+data:{"timestamp": 1667472659, "coords": [37.3641778, 55.7291923], "heading": 259.68, "velocity": 48.63, "accuracy": [2.96, 3.91]}
+
+
+data:{"timestamp": 1667472660, "coords": [37.3639651, 55.7291744], "heading": 262.48, "velocity": 48.45, "accuracy": [2.93, 3.86]}
+
+
+data:{"timestamp": 1667472661, "coords": [37.3637526, 55.7291615], "heading": 264.7, "velocity": 48.16, "accuracy": [2.89, 3.82]}
+
+
+data:{"timestamp": 1667472662, "coords": [37.3635409, 55.7291534], "heading": 267.23, "velocity": 47.8, "accuracy": [2.85, 3.79]}
+
+
+data:{"timestamp": 1667472663, "coords": [37.3633299, 55.7291503], "heading": 269.53, "velocity": 47.63, "accuracy": [2.82, 3.75]}
+
+
+data:{"timestamp": 1667472664, "coords": [37.36312, 55.729152], "heading": 271.87, "velocity": 47.31, "accuracy": [2.79, 3.73]}
+
+
+data:{"timestamp": 1667472665, "coords": [37.3629118, 55.7291586], "heading": 274.32, "velocity": 47.01, "accuracy": [2.77, 3.7]}
+
+
+data:{"timestamp": 1667472666, "coords": [37.3627057, 55.72917], "heading": 276.86, "velocity": 46.75, "accuracy": [2.74, 3.68]}
+
+
+data:{"timestamp": 1667472667, "coords": [37.3625019, 55.7291864], "heading": 279.24, "velocity": 46.5, "accuracy": [2.71, 3.66]}
+
+
+data:{"timestamp": 1667472668, "coords": [37.3623006, 55.729207], "heading": 281.25, "velocity": 46.2, "accuracy": [2.7, 3.64]}
+
+
+data:{"timestamp": 1667472669, "coords": [37.3621016, 55.7292321], "heading": 283.72, "velocity": 46.08, "accuracy": [2.68, 3.62]}
+
+
+data:{"timestamp": 1667472670, "coords": [37.3619053, 55.7292614], "heading": 285.88, "velocity": 45.78, "accuracy": [2.66, 3.59]}
+
+
+data:{"timestamp": 1667472671, "coords": [37.3617122, 55.7292949], "heading": 288.13, "velocity": 45.5, "accuracy": [2.64, 3.55]}
+
+
+data:{"timestamp": 1667472672, "coords": [37.3615234, 55.7293331], "heading": 290.74, "velocity": 45.26, "accuracy": [2.62, 3.51]}
+
+
+data:{"timestamp": 1667472673, "coords": [37.3613386, 55.7293754], "heading": 292.97, "velocity": 45.03, "accuracy": [2.61, 3.47]}
+
+
+data:{"timestamp": 1667472674, "coords": [37.3611577, 55.7294219], "heading": 295.32, "velocity": 44.78, "accuracy": [2.59, 3.43]}
+
+
+data:{"timestamp": 1667472675, "coords": [37.3609813, 55.7294716], "heading": 297.39, "velocity": 44.45, "accuracy": [2.57, 3.4]}
+
+
+data:{"timestamp": 1667472676, "coords": [37.3608091, 55.7295247], "heading": 299.63, "velocity": 44.34, "accuracy": [2.54, 3.36]}
+
+
+data:{"timestamp": 1667472677, "coords": [37.3606427, 55.7295809], "heading": 301.74, "velocity": 43.8, "accuracy": [2.52, 3.33]}
+
+
+data:{"timestamp": 1667472678, "coords": [37.3604809, 55.7296397], "heading": 303.6, "velocity": 43.45, "accuracy": [2.51, 3.32]}
+
+
+data:{"timestamp": 1667472679, "coords": [37.3603251, 55.729702], "heading": 306.18, "velocity": 43.1, "accuracy": [2.51, 3.33]}
+
+
+data:{"timestamp": 1667472680, "coords": [37.3601745, 55.7297678], "heading": 308.51, "velocity": 42.99, "accuracy": [2.51, 3.32]}
+
+
+data:{"timestamp": 1667472681, "coords": [37.3600297, 55.7298358], "heading": 310.46, "velocity": 42.39, "accuracy": [2.5, 3.33]}
+
+
+data:{"timestamp": 1667472682, "coords": [37.3598908, 55.7299063], "heading": 312.56, "velocity": 42.06, "accuracy": [2.5, 3.34]}
+
+
+data:{"timestamp": 1667472683, "coords": [37.3597573, 55.729979], "heading": 314.62, "velocity": 41.82, "accuracy": [2.5, 3.35]}
+
+
+data:{"timestamp": 1667472684, "coords": [37.3596306, 55.7300534], "heading": 317.1, "velocity": 41.23, "accuracy": [2.5, 3.36]}
+
+
+data:{"timestamp": 1667472685, "coords": [37.3595101, 55.7301294], "heading": 318.73, "velocity": 40.72, "accuracy": [2.5, 3.38]}
+
+
+data:{"timestamp": 1667472686, "coords": [37.3593965, 55.7302067], "heading": 321.16, "velocity": 40.2, "accuracy": [2.49, 3.39]}
+
+
+data:{"timestamp": 1667472687, "coords": [37.3592876, 55.7302848], "heading": 322.24, "velocity": 39.65, "accuracy": [2.52, 3.43]}
+
+
+data:{"timestamp": 1667472688, "coords": [37.3591931, 55.7303644], "heading": 327.64, "velocity": 38.06, "accuracy": [2.8, 3.54]}
+
+
+data:{"timestamp": 1667472689, "coords": [37.3590962, 55.7304382], "heading": 322.66, "velocity": 36.97, "accuracy": [3.72, 3.75]}
+
+
+data:{"timestamp": 1667472690, "coords": [37.3589909, 55.7304888], "heading": 311.52, "velocity": 31.94, "accuracy": [4.54, 3.98]}
+
+
+data:{"timestamp": 1667472691, "coords": [37.3588914, 55.7305581], "heading": 320.86, "velocity": 35.06, "accuracy": [5.08, 4.28]}
+
+
+data:{"timestamp": 1667472692, "coords": [37.358807, 55.730634], "heading": 327.33, "velocity": 35.64, "accuracy": [5.39, 4.65]}
+
+
+data:{"timestamp": 1667472693, "coords": [37.3587234, 55.7307082], "heading": 326.42, "velocity": 35.97, "accuracy": [5.38, 4.86]}
+
+
+data:{"timestamp": 1667472694, "coords": [37.3586393, 55.7307843], "heading": 327.79, "velocity": 35.72, "accuracy": [5.24, 4.76]}
+
+
+data:{"timestamp": 1667472695, "coords": [37.3585535, 55.7308604], "heading": 326.59, "velocity": 35.52, "accuracy": [5.07, 4.62]}
+
+
+data:{"timestamp": 1667472696, "coords": [37.358467, 55.7309353], "heading": 325.55, "velocity": 35.41, "accuracy": [4.86, 4.48]}
+
+
+data:{"timestamp": 1667472697, "coords": [37.3583763, 55.7310072], "heading": 323.76, "velocity": 35.52, "accuracy": [4.65, 4.39]}
+
+
+data:{"timestamp": 1667472698, "coords": [37.3582804, 55.7310785], "heading": 321.62, "velocity": 35.39, "accuracy": [4.47, 4.31]}
+
+
+data:{"timestamp": 1667472700, "coords": [37.3580807, 55.7312162], "heading": 318.12, "velocity": 34.91, "accuracy": [4.08, 4.12]}
+
+
+data:{"timestamp": 1667472701, "coords": [37.3579768, 55.7312831], "heading": 316.74, "velocity": 34.65, "accuracy": [3.87, 3.99]}
+
+
+data:{"timestamp": 1667472702, "coords": [37.3578686, 55.7313474], "heading": 314.71, "velocity": 35.2, "accuracy": [3.72, 3.9]}
+
+
+data:{"timestamp": 1667472703, "coords": [37.3577547, 55.7314104], "heading": 312.93, "velocity": 35.78, "accuracy": [3.59, 3.81]}
+
+
+data:{"timestamp": 1667472704, "coords": [37.3576361, 55.7314712], "heading": 311.39, "velocity": 36.26, "accuracy": [3.51, 3.76]}
+
+
+data:{"timestamp": 1667472705, "coords": [37.3575112, 55.7315311], "heading": 309.52, "velocity": 37.14, "accuracy": [3.45, 3.73]}
+
+
+data:{"timestamp": 1667472706, "coords": [37.3573809, 55.7315902], "heading": 307.48, "velocity": 37.46, "accuracy": [3.36, 3.66]}
+
+
+data:{"timestamp": 1667472707, "coords": [37.3572463, 55.7316469], "heading": 305.45, "velocity": 37.62, "accuracy": [3.28, 3.61]}
+
+
+data:{"timestamp": 1667472708, "coords": [37.3571105, 55.7317011], "heading": 303.82, "velocity": 37.12, "accuracy": [3.2, 3.56]}
+
+
+data:{"timestamp": 1667472709, "coords": [37.3569724, 55.731752], "heading": 301.95, "velocity": 36.97, "accuracy": [3.14, 3.51]}
+
+
+data:{"timestamp": 1667472710, "coords": [37.3568331, 55.7318003], "heading": 300.36, "velocity": 36.63, "accuracy": [3.09, 3.48]}
+
+
+data:{"timestamp": 1667472711, "coords": [37.3566923, 55.7318451], "heading": 298.26, "velocity": 36.3, "accuracy": [3.05, 3.45]}
+
+
+data:{"timestamp": 1667472712, "coords": [37.3565503, 55.7318875], "heading": 296.72, "velocity": 36.01, "accuracy": [3.0, 3.41]}
+
+
+data:{"timestamp": 1667472713, "coords": [37.3564073, 55.7319259], "heading": 294.67, "velocity": 35.75, "accuracy": [2.95, 3.37]}
+
+
+data:{"timestamp": 1667472714, "coords": [37.3562614, 55.7319621], "heading": 292.84, "velocity": 36.09, "accuracy": [2.9, 3.33]}
+
+
+data:{"timestamp": 1667472715, "coords": [37.3561124, 55.731996], "heading": 291.15, "velocity": 36.41, "accuracy": [2.85, 3.3]}
+
+
+data:{"timestamp": 1667472716, "coords": [37.35596, 55.7320272], "heading": 289.29, "velocity": 36.84, "accuracy": [2.82, 3.28]}
+
+
+data:{"timestamp": 1667472717, "coords": [37.3558051, 55.7320559], "heading": 287.34, "velocity": 36.81, "accuracy": [2.8, 3.26]}
+
+
+data:{"timestamp": 1667472718, "coords": [37.3556492, 55.7320813], "heading": 285.42, "velocity": 36.66, "accuracy": [2.78, 3.26]}
+
+
+data:{"timestamp": 1667472719, "coords": [37.3554929, 55.7321041], "heading": 283.6, "velocity": 36.28, "accuracy": [2.75, 3.24]}
+
+
+data:{"timestamp": 1667472720, "coords": [37.3553368, 55.7321233], "heading": 281.42, "velocity": 36.0, "accuracy": [2.73, 3.23]}
+
+
+data:{"timestamp": 1667472721, "coords": [37.3551808, 55.7321396], "heading": 280.09, "velocity": 35.71, "accuracy": [2.71, 3.22]}
+
+
+data:{"timestamp": 1667472722, "coords": [37.3550256, 55.7321529], "heading": 277.72, "velocity": 35.32, "accuracy": [2.7, 3.23]}
+
+
+data:{"timestamp": 1667472723, "coords": [37.354871, 55.7321631], "heading": 276.24, "velocity": 35.06, "accuracy": [2.68, 3.22]}
+
+
+data:{"timestamp": 1667472724, "coords": [37.3547168, 55.7321711], "heading": 274.1, "velocity": 34.85, "accuracy": [2.65, 3.21]}
+
+
+data:{"timestamp": 1667472725, "coords": [37.3545636, 55.7321765], "heading": 272.8, "velocity": 34.52, "accuracy": [2.62, 3.19]}
+
+
+data:{"timestamp": 1667472726, "coords": [37.3544112, 55.7321788], "heading": 270.55, "velocity": 34.34, "accuracy": [2.59, 3.17]}
+
+
+data:{"timestamp": 1667472727, "coords": [37.3542599, 55.7321788], "heading": 269.37, "velocity": 34.06, "accuracy": [2.57, 3.15]}
+
+
+data:{"timestamp": 1667472728, "coords": [37.3541096, 55.7321765], "heading": 267.83, "velocity": 33.92, "accuracy": [2.55, 3.13]}
+
+
+data:{"timestamp": 1667472729, "coords": [37.3539571, 55.7321728], "heading": 267.2, "velocity": 34.73, "accuracy": [2.54, 3.12]}
+
+
+data:{"timestamp": 1667472730, "coords": [37.3538004, 55.7321677], "heading": 266.32, "velocity": 35.79, "accuracy": [2.52, 3.12]}
+
+
+data:{"timestamp": 1667472731, "coords": [37.3536404, 55.7321632], "heading": 267.22, "velocity": 36.48, "accuracy": [2.52, 3.12]}
+
+
+data:{"timestamp": 1667472732, "coords": [37.3534782, 55.7321581], "heading": 266.29, "velocity": 36.91, "accuracy": [2.5, 3.12]}
+
+
+data:{"timestamp": 1667472733, "coords": [37.3533156, 55.7321538], "heading": 267.2, "velocity": 36.82, "accuracy": [2.48, 3.12]}
+
+
+data:{"timestamp": 1667472734, "coords": [37.3531537, 55.7321484], "heading": 266.05, "velocity": 36.68, "accuracy": [2.47, 3.12]}
+
+
+data:{"timestamp": 1667472735, "coords": [37.3529923, 55.7321438], "heading": 267.19, "velocity": 36.49, "accuracy": [2.45, 3.11]}
+
+
+data:{"timestamp": 1667472736, "coords": [37.3528319, 55.7321399], "heading": 267.32, "velocity": 36.23, "accuracy": [2.44, 3.11]}
+
+
+data:{"timestamp": 1667472737, "coords": [37.3526727, 55.732138], "heading": 269.02, "velocity": 35.9, "accuracy": [2.43, 3.11]}
+
+
+data:{"timestamp": 1667472738, "coords": [37.3525146, 55.7321391], "heading": 270.92, "velocity": 35.65, "accuracy": [2.42, 3.11]}
+
+
+data:{"timestamp": 1667472739, "coords": [37.3523576, 55.7321432], "heading": 272.82, "velocity": 35.49, "accuracy": [2.41, 3.1]}
+
+
+data:{"timestamp": 1667472740, "coords": [37.3522018, 55.7321501], "heading": 274.79, "velocity": 35.26, "accuracy": [2.4, 3.1]}
+
+
+data:{"timestamp": 1667472741, "coords": [37.352047, 55.7321598], "heading": 276.6, "velocity": 35.13, "accuracy": [2.38, 3.1]}
+
+
+data:{"timestamp": 1667472742, "coords": [37.3518923, 55.7321729], "heading": 279.08, "velocity": 35.47, "accuracy": [2.38, 3.11]}
+
+
+data:{"timestamp": 1667472743, "coords": [37.3517367, 55.732189], "heading": 280.42, "velocity": 35.77, "accuracy": [2.38, 3.12]}
+
+
+data:{"timestamp": 1667472744, "coords": [37.3515801, 55.732208], "heading": 282.45, "velocity": 36.3, "accuracy": [2.38, 3.11]}
+
+
+data:{"timestamp": 1667472745, "coords": [37.3514238, 55.7322301], "heading": 284.36, "velocity": 36.44, "accuracy": [2.36, 3.1]}
+
+
+data:{"timestamp": 1667472746, "coords": [37.3512689, 55.7322547], "heading": 285.93, "velocity": 36.38, "accuracy": [2.35, 3.07]}
+
+
+data:{"timestamp": 1667472747, "coords": [37.3511115, 55.7322833], "heading": 288.39, "velocity": 37.8, "accuracy": [2.33, 3.04]}
+
+
+data:{"timestamp": 1667472748, "coords": [37.3509499, 55.7323155], "heading": 289.77, "velocity": 39.19, "accuracy": [2.32, 3.01]}
+
+
+data:{"timestamp": 1667472749, "coords": [37.3507841, 55.7323526], "heading": 292.28, "velocity": 40.66, "accuracy": [2.31, 2.98]}
+
+
+data:{"timestamp": 1667472751, "coords": [37.3504459, 55.732441], "heading": 296.38, "velocity": 42.93, "accuracy": [2.29, 2.93]}
+
+
+data:{"timestamp": 1667472752, "coords": [37.3502753, 55.7324915], "heading": 298.0, "velocity": 43.87, "accuracy": [2.27, 2.91]}
+
+
+data:{"timestamp": 1667472753, "coords": [37.3501028, 55.7325469], "heading": 300.09, "velocity": 45.39, "accuracy": [2.25, 2.9]}
+
+
+data:{"timestamp": 1667472754, "coords": [37.3499278, 55.7326073], "heading": 301.7, "velocity": 46.78, "accuracy": [2.24, 2.89]}
+
+
+data:{"timestamp": 1667472755, "coords": [37.3497524, 55.7326729], "heading": 304.3, "velocity": 48.09, "accuracy": [2.23, 2.89]}
+
+
+data:{"timestamp": 1667472756, "coords": [37.3495783, 55.7327446], "heading": 306.83, "velocity": 49.11, "accuracy": [2.24, 2.9]}
+
+
+data:{"timestamp": 1667472757, "coords": [37.3494097, 55.7328213], "heading": 309.72, "velocity": 49.01, "accuracy": [2.24, 2.91]}
+
+
+data:{"timestamp": 1667472758, "coords": [37.349249, 55.7329015], "heading": 312.34, "velocity": 48.5, "accuracy": [2.25, 2.93]}
+
+
+data:{"timestamp": 1667472759, "coords": [37.3490966, 55.7329852], "heading": 314.86, "velocity": 48.07, "accuracy": [2.26, 2.94]}
+
+
+data:{"timestamp": 1667472760, "coords": [37.3489512, 55.7330709], "heading": 316.7, "velocity": 47.53, "accuracy": [2.27, 2.96]}
+
+
+data:{"timestamp": 1667472761, "coords": [37.3488121, 55.7331589], "heading": 318.7, "velocity": 47.36, "accuracy": [2.27, 2.96]}
+
+
+data:{"timestamp": 1667472762, "coords": [37.3486789, 55.7332486], "heading": 320.39, "velocity": 46.9, "accuracy": [2.26, 2.98]}
+
+
+data:{"timestamp": 1667472763, "coords": [37.3485505, 55.7333394], "heading": 321.66, "velocity": 46.48, "accuracy": [2.26, 3.0]}
+
+
+data:{"timestamp": 1667472764, "coords": [37.3484274, 55.7334301], "heading": 322.78, "velocity": 45.75, "accuracy": [2.27, 3.02]}
+
+
+data:{"timestamp": 1667472765, "coords": [37.3483112, 55.7335192], "heading": 323.85, "velocity": 44.06, "accuracy": [2.27, 3.03]}
+
+
+data:{"timestamp": 1667472766, "coords": [37.3482025, 55.7336066], "heading": 325.15, "velocity": 42.43, "accuracy": [2.27, 3.04]}
+
+
+data:{"timestamp": 1667472767, "coords": [37.3480999, 55.7336923], "heading": 326.08, "velocity": 41.22, "accuracy": [2.29, 3.05]}
+
+
+data:{"timestamp": 1667472768, "coords": [37.3480026, 55.7337765], "heading": 326.99, "velocity": 39.94, "accuracy": [2.3, 3.08]}
+
+
+data:{"timestamp": 1667472769, "coords": [37.3479128, 55.7338569], "heading": 328.11, "velocity": 37.48, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472770, "coords": [37.3478313, 55.7339327], "heading": 329.02, "velocity": 34.8, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472771, "coords": [37.3477566, 55.7340045], "heading": 329.75, "velocity": 32.74, "accuracy": [2.31, 3.1]}
+
+
+data:{"timestamp": 1667472772, "coords": [37.3476873, 55.7340728], "heading": 330.41, "velocity": 31.07, "accuracy": [2.32, 3.1]}
+
+
+data:{"timestamp": 1667472773, "coords": [37.3476236, 55.7341381], "heading": 331.37, "velocity": 29.42, "accuracy": [2.32, 3.1]}
+
+
+data:{"timestamp": 1667472774, "coords": [37.3475637, 55.734201], "heading": 331.76, "velocity": 28.23, "accuracy": [2.32, 3.1]}
+
+
+data:{"timestamp": 1667472775, "coords": [37.3475072, 55.7342623], "heading": 332.61, "velocity": 27.34, "accuracy": [2.31, 3.1]}
+
+
+data:{"timestamp": 1667472776, "coords": [37.3474529, 55.7343224], "heading": 332.9, "velocity": 26.73, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472777, "coords": [37.3474016, 55.7343811], "heading": 334.02, "velocity": 26.02, "accuracy": [2.3, 3.08]}
+
+
+data:{"timestamp": 1667472778, "coords": [37.3473522, 55.7344389], "heading": 334.22, "velocity": 25.45, "accuracy": [2.29, 3.07]}
+
+
+data:{"timestamp": 1667472779, "coords": [37.3473053, 55.7344954], "heading": 334.99, "velocity": 24.65, "accuracy": [2.29, 3.06]}
+
+
+data:{"timestamp": 1667472780, "coords": [37.3472617, 55.7345498], "heading": 335.69, "velocity": 23.62, "accuracy": [2.29, 3.06]}
+
+
+data:{"timestamp": 1667472781, "coords": [37.3472211, 55.7346013], "heading": 336.07, "velocity": 22.14, "accuracy": [2.3, 3.07]}
+
+
+data:{"timestamp": 1667472782, "coords": [37.347184, 55.7346497], "heading": 336.73, "velocity": 20.61, "accuracy": [2.3, 3.08]}
+
+
+data:{"timestamp": 1667472783, "coords": [37.3471507, 55.7346949], "heading": 337.68, "velocity": 19.19, "accuracy": [2.31, 3.08]}
+
+
+data:{"timestamp": 1667472784, "coords": [37.3471215, 55.734736], "heading": 338.36, "velocity": 17.18, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472785, "coords": [37.3470966, 55.7347719], "heading": 338.65, "velocity": 14.63, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472786, "coords": [37.3470762, 55.7348016], "heading": 339.0, "velocity": 11.89, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472787, "coords": [37.3470606, 55.7348252], "heading": 339.8, "velocity": 9.37, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472788, "coords": [37.347049, 55.7348432], "heading": 340.03, "velocity": 6.89, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472789, "coords": [37.3470413, 55.7348554], "heading": 340.57, "velocity": 4.4, "accuracy": [2.31, 3.09]}
+
+
+data:{"timestamp": 1667472790, "coords": [37.3470371, 55.7348622], "heading": 340.62, "velocity": 2.16, "accuracy": [2.32, 3.08]}
+
+
+data:{"timestamp": 1667472791, "coords": [37.3470348, 55.7348656], "heading": 340.96, "velocity": 1.22, "accuracy": [2.32, 3.07]}
+
+
+data:{"timestamp": 1667472792, "coords": [37.347034, 55.7348668], "heading": 340.42, "velocity": 0.1, "accuracy": [2.32, 3.05]}
+
+
+data:{"timestamp": 1667472793, "coords": [37.3470337, 55.7348672], "heading": 340.42, "velocity": 0.05, "accuracy": [2.32, 3.03]}
+
+
+data:{"timestamp": 1667472794, "coords": [37.3470334, 55.7348675], "heading": 340.42, "velocity": 0.14, "accuracy": [2.32, 3.01]}
+
+
+data:{"timestamp": 1667472795, "coords": [37.3470332, 55.7348682], "heading": 340.42, "velocity": 0.14, "accuracy": [2.32, 2.98]}
+
+
+data:{"timestamp": 1667472796, "coords": [37.3470329, 55.7348691], "heading": 340.42, "velocity": 0.14, "accuracy": [2.32, 2.95]}
+
+
+data:{"timestamp": 1667472797, "coords": [37.3470326, 55.7348698], "heading": 340.42, "velocity": 0.08, "accuracy": [2.31, 2.93]}
+
+
+data:{"timestamp": 1667472798, "coords": [37.3470326, 55.7348704], "heading": 340.42, "velocity": 0.08, "accuracy": [2.31, 2.91]}
+
+
+data:{"timestamp": 1667472799, "coords": [37.3470328, 55.7348709], "heading": 340.42, "velocity": 0.09, "accuracy": [2.31, 2.9]}
+
+
+data:{"timestamp": 1667472800, "coords": [37.3470328, 55.7348716], "heading": 340.42, "velocity": 0.05, "accuracy": [2.31, 2.88]}
+
+
+data:{"timestamp": 1667472802, "coords": [37.3470325, 55.7348729], "heading": 340.42, "velocity": 0.02, "accuracy": [2.31, 2.85]}
+
+
+data:{"timestamp": 1667472803, "coords": [37.3470324, 55.7348735], "heading": 340.42, "velocity": 0.06, "accuracy": [2.3, 2.83]}
+
+
+data:{"timestamp": 1667472804, "coords": [37.3470322, 55.7348742], "heading": 340.42, "velocity": 0.04, "accuracy": [2.3, 2.82]}
+
+
+data:{"timestamp": 1667472805, "coords": [37.3470322, 55.7348747], "heading": 340.42, "velocity": 0.13, "accuracy": [2.3, 2.81]}
+
+
+data:{"timestamp": 1667472806, "coords": [37.347032, 55.7348748], "heading": 340.42, "velocity": 0.06, "accuracy": [2.3, 2.8]}
+
+
+data:{"timestamp": 1667472807, "coords": [37.3470318, 55.7348752], "heading": 340.42, "velocity": 0.07, "accuracy": [2.3, 2.79]}
+
+
+data:{"timestamp": 1667472808, "coords": [37.3470314, 55.7348759], "heading": 340.42, "velocity": 0.07, "accuracy": [2.3, 2.78]}
+
+
+data:{"timestamp": 1667472809, "coords": [37.3470311, 55.7348765], "heading": 340.42, "velocity": 0.04, "accuracy": [2.31, 2.77]}
+
+
+data:{"timestamp": 1667472810, "coords": [37.3470305, 55.7348769], "heading": 340.42, "velocity": 0.04, "accuracy": [2.31, 2.77]}
+
+
+data:{"timestamp": 1667472811, "coords": [37.3470302, 55.7348771], "heading": 340.42, "velocity": 0.01, "accuracy": [2.31, 2.77]}
+
+
+data:{"timestamp": 1667472812, "coords": [37.3470297, 55.7348775], "heading": 340.42, "velocity": 0.06, "accuracy": [2.31, 2.77]}
+
+
+data:{"timestamp": 1667472813, "coords": [37.3470293, 55.7348775], "heading": 340.42, "velocity": 0.15, "accuracy": [2.32, 2.77]}
+
+
+data:{"timestamp": 1667472814, "coords": [37.347029, 55.7348776], "heading": 340.42, "velocity": 0.08, "accuracy": [2.32, 2.78]}
+
+
+data:{"timestamp": 1667472815, "coords": [37.3470286, 55.7348779], "heading": 340.42, "velocity": 0.01, "accuracy": [2.33, 2.78]}
+
+
+data:{"timestamp": 1667472816, "coords": [37.3470285, 55.7348782], "heading": 340.42, "velocity": 0.11, "accuracy": [2.33, 2.78]}
+
+
+data:{"timestamp": 1667472817, "coords": [37.3470281, 55.7348784], "heading": 340.42, "velocity": 0.04, "accuracy": [2.34, 2.79]}
+
+
+data:{"timestamp": 1667472818, "coords": [37.3470279, 55.7348786], "heading": 340.42, "velocity": 0.04, "accuracy": [2.34, 2.79]}
+
+
+data:{"timestamp": 1667472819, "coords": [37.3470276, 55.734879], "heading": 340.42, "velocity": 0.04, "accuracy": [2.34, 2.8]}
+
+
+data:{"timestamp": 1667472820, "coords": [37.3470272, 55.7348794], "heading": 340.42, "velocity": 0.02, "accuracy": [2.34, 2.8]}
+
+
+data:{"timestamp": 1667472821, "coords": [37.3470267, 55.7348796], "heading": 340.42, "velocity": 0.04, "accuracy": [2.34, 2.81]}
+
+
+data:{"timestamp": 1667472822, "coords": [37.3470261, 55.7348799], "heading": 340.42, "velocity": 0.04, "accuracy": [2.34, 2.81]}
+
+
+data:{"timestamp": 1667472823, "coords": [37.3470254, 55.7348802], "heading": 340.42, "velocity": 0.08, "accuracy": [2.34, 2.81]}
+
+
+data:{"timestamp": 1667472824, "coords": [37.3470248, 55.7348804], "heading": 340.42, "velocity": 0.02, "accuracy": [2.34, 2.82]}
+
+
+data:{"timestamp": 1667472825, "coords": [37.3470244, 55.7348805], "heading": 340.42, "velocity": 0.06, "accuracy": [2.34, 2.83]}
+
+
+data:{"timestamp": 1667472826, "coords": [37.3470237, 55.7348809], "heading": 340.42, "velocity": 0.07, "accuracy": [2.35, 2.83]}
+
+
+data:{"timestamp": 1667472827, "coords": [37.3470231, 55.7348811], "heading": 340.42, "velocity": 0.06, "accuracy": [2.35, 2.84]}
+
+
+data:{"timestamp": 1667472828, "coords": [37.3470223, 55.7348816], "heading": 340.42, "velocity": 0.16, "accuracy": [2.35, 2.85]}
+
+
+data:{"timestamp": 1667472829, "coords": [37.3470219, 55.7348818], "heading": 340.42, "velocity": 0.07, "accuracy": [2.35, 2.86]}
+
+
+data:{"timestamp": 1667472830, "coords": [37.3470219, 55.734882], "heading": 340.42, "velocity": 0.08, "accuracy": [2.35, 2.87]}
+
+
+data:{"timestamp": 1667472831, "coords": [37.3470216, 55.7348823], "heading": 340.42, "velocity": 0.04, "accuracy": [2.35, 2.87]}
+
+
+data:{"timestamp": 1667472832, "coords": [37.3470213, 55.7348824], "heading": 340.42, "velocity": 0.06, "accuracy": [2.36, 2.88]}
+
+
+data:{"timestamp": 1667472833, "coords": [37.3470208, 55.7348825], "heading": 340.42, "velocity": 0.04, "accuracy": [2.36, 2.88]}
+
+
+data:{"timestamp": 1667472834, "coords": [37.3470205, 55.7348829], "heading": 340.42, "velocity": 0.06, "accuracy": [2.36, 2.89]}
+
+
+data:{"timestamp": 1667472835, "coords": [37.3470203, 55.7348829], "heading": 340.42, "velocity": 0.05, "accuracy": [2.36, 2.9]}
+
+
+data:{"timestamp": 1667472836, "coords": [37.3470199, 55.7348827], "heading": 340.42, "velocity": 0.09, "accuracy": [2.37, 2.9]}
+
+
+data:{"timestamp": 1667472837, "coords": [37.3470196, 55.7348826], "heading": 340.42, "velocity": 0.05, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472838, "coords": [37.3470192, 55.7348827], "heading": 340.42, "velocity": 0.01, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472839, "coords": [37.3470191, 55.7348826], "heading": 340.42, "velocity": 0.06, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472840, "coords": [37.3470189, 55.7348828], "heading": 340.42, "velocity": 0.1, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472841, "coords": [37.3470187, 55.734883], "heading": 340.42, "velocity": 0.01, "accuracy": [2.37, 2.9]}
+
+
+data:{"timestamp": 1667472842, "coords": [37.3470184, 55.7348831], "heading": 340.42, "velocity": 0.05, "accuracy": [2.37, 2.9]}
+
+
+data:{"timestamp": 1667472843, "coords": [37.3470181, 55.7348834], "heading": 340.42, "velocity": 0.05, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472844, "coords": [37.3470178, 55.7348835], "heading": 340.42, "velocity": 0.1, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472845, "coords": [37.3470176, 55.7348836], "heading": 340.42, "velocity": 0.04, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472846, "coords": [37.3470174, 55.7348837], "heading": 340.42, "velocity": 0.06, "accuracy": [2.37, 2.91]}
+
+
+data:{"timestamp": 1667472847, "coords": [37.3470173, 55.7348836], "heading": 340.42, "velocity": 0.06, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472848, "coords": [37.3470173, 55.7348833], "heading": 340.42, "velocity": 0.1, "accuracy": [2.38, 2.92]}
+
+
+data:{"timestamp": 1667472850, "coords": [37.3470171, 55.7348834], "heading": 340.42, "velocity": 0.08, "accuracy": [2.39, 2.92]}
+
+
+data:{"timestamp": 1667472851, "coords": [37.3470168, 55.7348837], "heading": 340.42, "velocity": 0.13, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472852, "coords": [37.3470166, 55.734884], "heading": 340.42, "velocity": 0.09, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472853, "coords": [37.3470165, 55.7348841], "heading": 340.42, "velocity": 0.03, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472854, "coords": [37.3470164, 55.7348844], "heading": 340.42, "velocity": 0.07, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472855, "coords": [37.3470162, 55.7348843], "heading": 340.42, "velocity": 0.05, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472856, "coords": [37.3470161, 55.7348844], "heading": 340.42, "velocity": 0.01, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472857, "coords": [37.3470159, 55.7348844], "heading": 340.42, "velocity": 0.04, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472858, "coords": [37.3470157, 55.7348845], "heading": 340.42, "velocity": 0.09, "accuracy": [2.38, 2.91]}
+
+
+data:{"timestamp": 1667472859, "coords": [37.3470148, 55.7348853], "heading": 340.42, "velocity": 0.45, "accuracy": [2.37, 2.9]}
+
+
+data:{"timestamp": 1667472860, "coords": [37.3470128, 55.7348882], "heading": 340.91, "velocity": 1.57, "accuracy": [2.36, 2.89]}
+
+
+data:{"timestamp": 1667472861, "coords": [37.3470091, 55.7348937], "heading": 339.7, "velocity": 2.83, "accuracy": [2.35, 2.87]}
+
+
+data:{"timestamp": 1667472862, "coords": [37.3470034, 55.734903], "heading": 340.89, "velocity": 4.41, "accuracy": [2.34, 2.85]}
+
+
+data:{"timestamp": 1667472863, "coords": [37.3469954, 55.7349159], "heading": 340.48, "velocity": 5.89, "accuracy": [2.34, 2.85]}
+
+
+data:{"timestamp": 1667472864, "coords": [37.3469855, 55.7349323], "heading": 341.0, "velocity": 7.32, "accuracy": [2.34, 2.85]}
+
+
+data:{"timestamp": 1667472865, "coords": [37.3469736, 55.7349521], "heading": 341.13, "velocity": 8.81, "accuracy": [2.33, 2.84]}
+
+
+data:{"timestamp": 1667472866, "coords": [37.3469599, 55.7349755], "heading": 341.59, "velocity": 10.2, "accuracy": [2.33, 2.84]}
+
+
+data:{"timestamp": 1667472867, "coords": [37.3469444, 55.7350027], "heading": 341.84, "velocity": 11.89, "accuracy": [2.32, 2.85]}
+
+
+data:{"timestamp": 1667472868, "coords": [37.346927, 55.7350339], "heading": 342.49, "velocity": 13.51, "accuracy": [2.32, 2.85]}
+
+
+data:{"timestamp": 1667472869, "coords": [37.3469085, 55.7350689], "heading": 343.3, "velocity": 15.01, "accuracy": [2.31, 2.86]}
+
+
+data:{"timestamp": 1667472870, "coords": [37.3468891, 55.7351067], "heading": 343.95, "velocity": 16.17, "accuracy": [2.31, 2.87]}
+
+
+data:{"timestamp": 1667472871, "coords": [37.3468688, 55.7351483], "heading": 344.62, "velocity": 17.75, "accuracy": [2.31, 2.87]}
+
+
+data:{"timestamp": 1667472872, "coords": [37.3468474, 55.7351939], "heading": 345.19, "velocity": 19.45, "accuracy": [2.32, 2.87]}
+
+
+data:{"timestamp": 1667472873, "coords": [37.3468255, 55.7352434], "heading": 346.15, "velocity": 21.0, "accuracy": [2.32, 2.88]}
+
+
+data:{"timestamp": 1667472874, "coords": [37.3468036, 55.7352977], "heading": 347.4, "velocity": 22.94, "accuracy": [2.32, 2.89]}
+
+
+data:{"timestamp": 1667472875, "coords": [37.3467807, 55.7353566], "heading": 347.72, "velocity": 24.68, "accuracy": [2.32, 2.9]}
+
+
+data:{"timestamp": 1667472876, "coords": [37.3467575, 55.73542], "heading": 348.5, "velocity": 26.51, "accuracy": [2.32, 2.9]}
+
+
+data:{"timestamp": 1667472877, "coords": [37.3467335, 55.7354875], "heading": 348.7, "velocity": 28.17, "accuracy": [2.31, 2.9]}
+
+
+data:{"timestamp": 1667472878, "coords": [37.3467102, 55.7355583], "heading": 349.74, "velocity": 29.13, "accuracy": [2.32, 2.9]}
+
+
+data:{"timestamp": 1667472879, "coords": [37.3466859, 55.73563], "heading": 348.96, "velocity": 29.35, "accuracy": [2.32, 2.91]}
+
+
+data:{"timestamp": 1667472880, "coords": [37.3466632, 55.7357032], "heading": 350.51, "velocity": 30.02, "accuracy": [2.32, 2.91]}
+
+
+data:{"timestamp": 1667472881, "coords": [37.3466383, 55.7357784], "heading": 349.1, "velocity": 31.0, "accuracy": [2.32, 2.91]}
+
+
+data:{"timestamp": 1667472882, "coords": [37.3466143, 55.7358555], "heading": 350.52, "velocity": 31.66, "accuracy": [2.31, 2.9]}
+
+
+data:{"timestamp": 1667472883, "coords": [37.3465893, 55.7359331], "heading": 349.3, "velocity": 31.6, "accuracy": [2.3, 2.89]}
+
+
+data:{"timestamp": 1667472884, "coords": [37.3465641, 55.7360107], "heading": 349.79, "velocity": 31.75, "accuracy": [2.29, 2.88]}
+
+
+data:{"timestamp": 1667472885, "coords": [37.3465382, 55.736088], "heading": 349.24, "velocity": 31.65, "accuracy": [2.28, 2.86]}
+
+
+data:{"timestamp": 1667472886, "coords": [37.3465133, 55.7361655], "heading": 349.86, "velocity": 31.74, "accuracy": [2.27, 2.85]}
+
+
+data:{"timestamp": 1667472887, "coords": [37.3464855, 55.736243], "heading": 348.09, "velocity": 31.87, "accuracy": [2.25, 2.84]}
+
+
+data:{"timestamp": 1667472888, "coords": [37.3464559, 55.7363205], "heading": 347.75, "velocity": 31.87, "accuracy": [2.24, 2.83]}
+
+
+data:{"timestamp": 1667472889, "coords": [37.3464217, 55.7363968], "heading": 345.01, "velocity": 31.7, "accuracy": [2.24, 2.84]}
+
+
+data:{"timestamp": 1667472890, "coords": [37.3463842, 55.7364737], "heading": 344.37, "velocity": 32.05, "accuracy": [2.24, 2.83]}
+
+
+data:{"timestamp": 1667472891, "coords": [37.3463424, 55.73655], "heading": 341.93, "velocity": 32.03, "accuracy": [2.23, 2.82]}
+
+
+data:{"timestamp": 1667472892, "coords": [37.3462971, 55.7366254], "heading": 340.84, "velocity": 32.07, "accuracy": [2.23, 2.82]}
+
+
+data:{"timestamp": 1667472893, "coords": [37.3462472, 55.7367002], "heading": 338.57, "velocity": 32.08, "accuracy": [2.23, 2.83]}
+
+
+data:{"timestamp": 1667472894, "coords": [37.3461933, 55.7367739], "heading": 336.93, "velocity": 32.08, "accuracy": [2.23, 2.83]}
+
+
+data:{"timestamp": 1667472895, "coords": [37.3461348, 55.7368474], "heading": 335.22, "velocity": 32.55, "accuracy": [2.21, 2.83]}
+
+
+data:{"timestamp": 1667472896, "coords": [37.3460705, 55.7369214], "heading": 333.24, "velocity": 33.36, "accuracy": [2.21, 2.83]}
+
+
+data:{"timestamp": 1667472897, "coords": [37.3459988, 55.7369973], "heading": 331.29, "velocity": 35.04, "accuracy": [2.2, 2.83]}
+
+
+data:{"timestamp": 1667472898, "coords": [37.3459186, 55.7370759], "heading": 329.38, "velocity": 36.91, "accuracy": [2.18, 2.82]}
+
+
+data:{"timestamp": 1667472899, "coords": [37.3458289, 55.737157], "heading": 327.27, "velocity": 38.93, "accuracy": [2.18, 2.82]}
+
+
+data:{"timestamp": 1667472900, "coords": [37.3457288, 55.7372406], "heading": 325.16, "velocity": 41.11, "accuracy": [2.16, 2.83]}
+
+
+data:{"timestamp": 1667472901, "coords": [37.3456168, 55.7373261], "heading": 322.79, "velocity": 43.3, "accuracy": [2.16, 2.83]}
+
+
+data:{"timestamp": 1667472902, "coords": [37.3454927, 55.7374129], "heading": 320.35, "velocity": 45.42, "accuracy": [2.15, 2.84]}
+
+
+data:{"timestamp": 1667472903, "coords": [37.3453561, 55.7375006], "heading": 317.87, "velocity": 47.38, "accuracy": [2.14, 2.85]}
+
+
+data:{"timestamp": 1667472904, "coords": [37.3452058, 55.7375881], "heading": 315.03, "velocity": 49.55, "accuracy": [2.14, 2.86]}
+
+
+data:{"timestamp": 1667472905, "coords": [37.3450433, 55.7376745], "heading": 312.63, "velocity": 51.07, "accuracy": [2.14, 2.87]}
+
+
+data:{"timestamp": 1667472906, "coords": [37.3448728, 55.7377576], "heading": 310.13, "velocity": 51.13, "accuracy": [2.14, 2.9]}
+
+
+data:{"timestamp": 1667472907, "coords": [37.3446952, 55.7378365], "heading": 307.52, "velocity": 51.34, "accuracy": [2.14, 2.91]}
+
+
+data:{"timestamp": 1667472908, "coords": [37.3445107, 55.7379111], "heading": 304.78, "velocity": 51.42, "accuracy": [2.14, 2.92]}
+
+
+data:{"timestamp": 1667472909, "coords": [37.3443202, 55.737981], "heading": 302.28, "velocity": 51.48, "accuracy": [2.13, 2.92]}
+
+
+data:{"timestamp": 1667472910, "coords": [37.3441254, 55.7380456], "heading": 299.69, "velocity": 50.99, "accuracy": [2.13, 2.93]}
+
+
+data:{"timestamp": 1667472911, "coords": [37.3439281, 55.7381046], "heading": 297.0, "velocity": 50.19, "accuracy": [2.14, 2.94]}
+
+
+data:{"timestamp": 1667472912, "coords": [37.3437293, 55.7381578], "heading": 294.58, "velocity": 49.44, "accuracy": [2.14, 2.93]}
+
+
+data:{"timestamp": 1667472913, "coords": [37.3435302, 55.7382051], "heading": 292.04, "velocity": 48.57, "accuracy": [2.13, 2.92]}
+
+
+data:{"timestamp": 1667472914, "coords": [37.3433312, 55.738247], "heading": 289.69, "velocity": 47.75, "accuracy": [2.12, 2.92]}
+
+
+data:{"timestamp": 1667472916, "coords": [37.3429351, 55.7383153], "heading": 284.85, "velocity": 46.21, "accuracy": [2.11, 2.92]}
+
+
+data:{"timestamp": 1667472917, "coords": [37.3427391, 55.7383418], "heading": 282.77, "velocity": 45.36, "accuracy": [2.12, 2.94]}
+
+
+data:{"timestamp": 1667472918, "coords": [37.3425442, 55.7383632], "heading": 280.32, "velocity": 44.7, "accuracy": [2.12, 2.93]}
+
+
+data:{"timestamp": 1667472919, "coords": [37.3423512, 55.7383802], "heading": 278.25, "velocity": 43.89, "accuracy": [2.11, 2.93]}
+
+
+data:{"timestamp": 1667472920, "coords": [37.3421603, 55.7383928], "heading": 275.98, "velocity": 43.26, "accuracy": [2.11, 2.93]}
+
+
+data:{"timestamp": 1667472921, "coords": [37.3419721, 55.7384022], "heading": 274.61, "velocity": 42.5, "accuracy": [2.11, 2.93]}
+
+
+data:{"timestamp": 1667472922, "coords": [37.3417869, 55.738409], "heading": 273.35, "velocity": 41.74, "accuracy": [2.11, 2.94]}
+
+
+data:{"timestamp": 1667472923, "coords": [37.3416048, 55.7384141], "heading": 272.69, "velocity": 40.99, "accuracy": [2.11, 2.95]}
+
+
+data:{"timestamp": 1667472924, "coords": [37.3414258, 55.7384185], "heading": 272.6, "velocity": 40.31, "accuracy": [2.11, 2.96]}
+
+
+data:{"timestamp": 1667472925, "coords": [37.3412497, 55.7384234], "heading": 273.08, "velocity": 39.65, "accuracy": [2.11, 2.97]}
+
+
+data:{"timestamp": 1667472926, "coords": [37.3410765, 55.7384296], "heading": 274.04, "velocity": 39.02, "accuracy": [2.11, 2.99]}
+
+
+data:{"timestamp": 1667472927, "coords": [37.3409066, 55.7384379], "heading": 275.4, "velocity": 38.33, "accuracy": [2.11, 3.0]}
+
+
+data:{"timestamp": 1667472928, "coords": [37.3407401, 55.7384479], "heading": 276.43, "velocity": 37.62, "accuracy": [2.12, 3.03]}
+
+
+data:{"timestamp": 1667472929, "coords": [37.3405768, 55.7384595], "heading": 277.6, "velocity": 37.0, "accuracy": [2.12, 3.03]}
+
+
+data:{"timestamp": 1667472930, "coords": [37.3404167, 55.7384729], "heading": 278.74, "velocity": 36.38, "accuracy": [2.11, 3.03]}
+
+
+data:{"timestamp": 1667472931, "coords": [37.3402601, 55.738488], "heading": 280.16, "velocity": 35.81, "accuracy": [2.09, 3.0]}
+
+
+data:{"timestamp": 1667472932, "coords": [37.3401067, 55.7385045], "heading": 281.2, "velocity": 35.24, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472933, "coords": [37.3399561, 55.7385221], "heading": 282.04, "velocity": 34.64, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472934, "coords": [37.3398089, 55.7385412], "heading": 283.35, "velocity": 34.06, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472935, "coords": [37.3396646, 55.7385611], "heading": 284.1, "velocity": 33.45, "accuracy": [2.07, 2.97]}
+
+
+data:{"timestamp": 1667472936, "coords": [37.3395236, 55.7385826], "heading": 285.62, "velocity": 32.93, "accuracy": [2.06, 2.95]}
+
+
+data:{"timestamp": 1667472937, "coords": [37.3393844, 55.7386055], "heading": 286.47, "velocity": 32.65, "accuracy": [2.05, 2.94]}
+
+
+data:{"timestamp": 1667472938, "coords": [37.3392461, 55.7386301], "heading": 287.58, "velocity": 32.73, "accuracy": [2.04, 2.93]}
+
+
+data:{"timestamp": 1667472939, "coords": [37.3391074, 55.7386564], "heading": 288.75, "velocity": 33.12, "accuracy": [2.04, 2.92]}
+
+
+data:{"timestamp": 1667472940, "coords": [37.3389688, 55.7386846], "heading": 290.14, "velocity": 33.34, "accuracy": [2.04, 2.92]}
+
+
+data:{"timestamp": 1667472941, "coords": [37.3388302, 55.7387149], "heading": 291.56, "velocity": 33.74, "accuracy": [2.05, 2.93]}
+
+
+data:{"timestamp": 1667472942, "coords": [37.3386918, 55.7387484], "heading": 293.64, "velocity": 34.19, "accuracy": [2.07, 2.95]}
+
+
+data:{"timestamp": 1667472943, "coords": [37.3385534, 55.7387842], "heading": 295.04, "velocity": 34.53, "accuracy": [2.08, 2.97]}
+
+
+data:{"timestamp": 1667472944, "coords": [37.3384151, 55.7388224], "heading": 296.54, "velocity": 34.96, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472945, "coords": [37.3382765, 55.7388636], "heading": 298.23, "velocity": 35.72, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472946, "coords": [37.3381367, 55.7389082], "heading": 299.9, "velocity": 36.6, "accuracy": [2.08, 2.99]}
+
+
+data:{"timestamp": 1667472947, "coords": [37.3379927, 55.7389577], "heading": 301.65, "velocity": 38.8, "accuracy": [2.08, 2.99]}
+
+
+data:{"timestamp": 1667472948, "coords": [37.3378433, 55.7390129], "heading": 303.62, "velocity": 41.08, "accuracy": [2.08, 2.99]}
+
+
+data:{"timestamp": 1667472949, "coords": [37.3376891, 55.7390742], "heading": 305.66, "velocity": 43.4, "accuracy": [2.08, 3.0]}
+
+
+data:{"timestamp": 1667472950, "coords": [37.3375306, 55.7391419], "heading": 307.73, "velocity": 45.7, "accuracy": [2.08, 3.0]}
+
+
+data:{"timestamp": 1667472951, "coords": [37.3373683, 55.7392165], "heading": 309.74, "velocity": 48.09, "accuracy": [2.07, 3.0]}
+
+
+data:{"timestamp": 1667472952, "coords": [37.3372023, 55.7392977], "heading": 311.41, "velocity": 50.4, "accuracy": [2.07, 2.99]}
+
+
+data:{"timestamp": 1667472953, "coords": [37.3370325, 55.739385], "heading": 312.76, "velocity": 52.64, "accuracy": [2.07, 2.97]}
+
+
+data:{"timestamp": 1667472954, "coords": [37.3368598, 55.739479], "heading": 314.47, "velocity": 55.06, "accuracy": [2.07, 2.97]}
+
+
+data:{"timestamp": 1667472955, "coords": [37.3366872, 55.7395782], "heading": 316.1, "velocity": 56.16, "accuracy": [2.07, 2.97]}
+
+
+data:{"timestamp": 1667472956, "coords": [37.3365187, 55.7396812], "heading": 317.69, "velocity": 56.34, "accuracy": [2.07, 2.96]}
+
+
+data:{"timestamp": 1667472957, "coords": [37.3363544, 55.7397874], "heading": 319.37, "velocity": 56.71, "accuracy": [2.07, 2.95]}
+
+
+data:{"timestamp": 1667472958, "coords": [37.336195, 55.7398968], "heading": 321.01, "velocity": 56.88, "accuracy": [2.07, 2.95]}
+
+
+data:{"timestamp": 1667472959, "coords": [37.3360418, 55.7400085], "heading": 322.73, "velocity": 56.64, "accuracy": [2.07, 2.96]}
+
+
+data:{"timestamp": 1667472960, "coords": [37.3358966, 55.7401221], "heading": 324.78, "velocity": 56.09, "accuracy": [2.08, 2.96]}
+
+
+data:{"timestamp": 1667472961, "coords": [37.3357593, 55.7402381], "heading": 326.84, "velocity": 55.93, "accuracy": [2.08, 2.96]}
+
+
+data:{"timestamp": 1667472962, "coords": [37.3356298, 55.7403572], "heading": 329.02, "velocity": 55.94, "accuracy": [2.07, 2.95]}
+
+
+data:{"timestamp": 1667472963, "coords": [37.3355081, 55.7404787], "heading": 331.16, "velocity": 55.98, "accuracy": [2.06, 2.94]}
+
+
+data:{"timestamp": 1667472964, "coords": [37.3353944, 55.7406026], "heading": 333.21, "velocity": 56.02, "accuracy": [2.05, 2.92]}
+
+
+data:{"timestamp": 1667472965, "coords": [37.3352891, 55.740729], "heading": 335.46, "velocity": 55.96, "accuracy": [2.04, 2.91]}
+
+
+data:{"timestamp": 1667472966, "coords": [37.3351923, 55.7408576], "heading": 337.64, "velocity": 56.08, "accuracy": [2.03, 2.89]}
+
+
+data:{"timestamp": 1667472967, "coords": [37.3351037, 55.7409886], "heading": 339.78, "velocity": 56.27, "accuracy": [2.02, 2.89]}
+
+
+data:{"timestamp": 1667472968, "coords": [37.3350243, 55.7411218], "heading": 342.05, "velocity": 56.25, "accuracy": [2.02, 2.89]}
+
+
+data:{"timestamp": 1667472969, "coords": [37.334954, 55.7412564], "heading": 344.21, "velocity": 56.25, "accuracy": [2.02, 2.9]}
+
+
+data:{"timestamp": 1667472970, "coords": [37.3348926, 55.7413924], "heading": 346.38, "velocity": 56.25, "accuracy": [2.03, 2.92]}
+
+
+data:{"timestamp": 1667472971, "coords": [37.3348398, 55.74153], "heading": 348.46, "velocity": 56.56, "accuracy": [2.04, 2.94]}
+
+
+data:{"timestamp": 1667472972, "coords": [37.3347959, 55.7416686], "heading": 350.56, "velocity": 56.39, "accuracy": [2.06, 2.96]}
+
+
+data:{"timestamp": 1667472973, "coords": [37.3347615, 55.7418084], "heading": 352.83, "velocity": 56.65, "accuracy": [2.06, 2.98]}
+
+
+data:{"timestamp": 1667472974, "coords": [37.334737, 55.7419487], "heading": 355.09, "velocity": 56.55, "accuracy": [2.07, 2.99]}
+
+
+data:{"timestamp": 1667472975, "coords": [37.3347222, 55.7420891], "heading": 357.36, "velocity": 56.57, "accuracy": [2.07, 2.98]}
+
+
+data:{"timestamp": 1667472976, "coords": [37.334717, 55.7422301], "heading": 359.39, "velocity": 56.56, "accuracy": [2.08, 2.98]}
+
+
+data:{"timestamp": 1667472977, "coords": [37.3347203, 55.7423713], "heading": 1.39, "velocity": 56.62, "accuracy": [2.09, 2.98]}
+
+
+data:{"timestamp": 1667472978, "coords": [37.3347327, 55.7425123], "heading": 3.54, "velocity": 56.54, "accuracy": [2.11, 2.99]}
+
+
+data:{"timestamp": 1667472979, "coords": [37.3347546, 55.7426532], "heading": 5.71, "velocity": 56.76, "accuracy": [2.14, 3.02]}
+
+
+data:{"timestamp": 1667472980, "coords": [37.3347847, 55.7427934], "heading": 7.45, "velocity": 56.71, "accuracy": [2.17, 3.04]}
+
+
+data:{"timestamp": 1667472981, "coords": [37.3348228, 55.7429334], "heading": 9.19, "velocity": 56.84, "accuracy": [2.18, 3.05]}
+
+
+data:{"timestamp": 1667472982, "coords": [37.3348674, 55.7430735], "heading": 10.59, "velocity": 57.14, "accuracy": [2.2, 3.08]}
+
+
+data:{"timestamp": 1667472983, "coords": [37.3349182, 55.7432135], "heading": 11.94, "velocity": 57.33, "accuracy": [2.21, 3.08]}
+
+
+data:{"timestamp": 1667472984, "coords": [37.3349734, 55.7433536], "heading": 12.81, "velocity": 57.47, "accuracy": [2.2, 3.08]}
+
+
+data:{"timestamp": 1667472985, "coords": [37.3350307, 55.7434933], "heading": 12.98, "velocity": 57.5, "accuracy": [2.19, 3.08]}
+
+
+data:{"timestamp": 1667472986, "coords": [37.3350876, 55.743633], "heading": 12.84, "velocity": 57.41, "accuracy": [2.17, 3.06]}
+
+
+data:{"timestamp": 1667472987, "coords": [37.3351452, 55.7437726], "heading": 13.07, "velocity": 57.52, "accuracy": [2.15, 3.03]}
+
+
+data:{"timestamp": 1667472988, "coords": [37.3352031, 55.743913], "heading": 13.06, "velocity": 57.71, "accuracy": [2.12, 3.0]}
+
+
+data:{"timestamp": 1667472989, "coords": [37.3352608, 55.7440536], "heading": 12.97, "velocity": 57.73, "accuracy": [2.1, 2.98]}
+
+
+data:{"timestamp": 1667472990, "coords": [37.3353183, 55.7441944], "heading": 12.96, "velocity": 57.77, "accuracy": [2.09, 2.96]}
+
+
+data:{"timestamp": 1667472991, "coords": [37.3353761, 55.7443351], "heading": 13.0, "velocity": 57.84, "accuracy": [2.08, 2.95]}
+
+
+data:{"timestamp": 1667472992, "coords": [37.335434, 55.7444758], "heading": 13.03, "velocity": 57.8, "accuracy": [2.06, 2.93]}
+
+
+data:{"timestamp": 1667472993, "coords": [37.3354913, 55.7446161], "heading": 12.88, "velocity": 57.6, "accuracy": [2.05, 2.91]}
+
+
+data:{"timestamp": 1667472994, "coords": [37.335548, 55.7447562], "heading": 12.78, "velocity": 57.47, "accuracy": [2.03, 2.89]}
+
+
+data:{"timestamp": 1667472995, "coords": [37.3356049, 55.7448958], "heading": 12.92, "velocity": 57.28, "accuracy": [2.02, 2.88]}
+
+
+data:{"timestamp": 1667472996, "coords": [37.3356617, 55.7450349], "heading": 12.97, "velocity": 57.1, "accuracy": [2.01, 2.87]}
+
+
+data:{"timestamp": 1667472997, "coords": [37.3357184, 55.7451737], "heading": 12.95, "velocity": 57.0, "accuracy": [2.0, 2.87]}
+
+
+data:{"timestamp": 1667472998, "coords": [37.3357753, 55.7453122], "heading": 13.02, "velocity": 56.92, "accuracy": [1.99, 2.85]}
+
+
+data:{"timestamp": 1667472999, "coords": [37.3358319, 55.7454505], "heading": 12.94, "velocity": 56.79, "accuracy": [1.98, 2.85]}
+
+
+data:{"timestamp": 1667473000, "coords": [37.335888, 55.7455884], "heading": 12.86, "velocity": 56.6, "accuracy": [1.97, 2.85]}
+
+
+data:{"timestamp": 1667473001, "coords": [37.3359443, 55.7457262], "heading": 12.95, "velocity": 56.7, "accuracy": [1.97, 2.85]}
+
+
+data:{"timestamp": 1667473002, "coords": [37.3360006, 55.7458645], "heading": 12.9, "velocity": 56.89, "accuracy": [1.96, 2.85]}
+
+
+data:{"timestamp": 1667473003, "coords": [37.336057, 55.746003], "heading": 12.93, "velocity": 56.88, "accuracy": [1.96, 2.85]}
+
+
+data:{"timestamp": 1667473004, "coords": [37.3361137, 55.7461416], "heading": 12.93, "velocity": 57.01, "accuracy": [1.96, 2.85]}
+
+
+data:{"timestamp": 1667473005, "coords": [37.3361678, 55.7462806], "heading": 12.1, "velocity": 57.0, "accuracy": [1.96, 2.86]}
+
+
+data:{"timestamp": 1667473006, "coords": [37.3362165, 55.7464203], "heading": 10.63, "velocity": 57.11, "accuracy": [1.96, 2.87]}
+
+
+data:{"timestamp": 1667473007, "coords": [37.336256, 55.7465603], "heading": 8.31, "velocity": 56.71, "accuracy": [1.97, 2.89]}
+
+
+data:{"timestamp": 1667473008, "coords": [37.3362832, 55.7467007], "heading": 5.29, "velocity": 56.64, "accuracy": [1.97, 2.89]}
+
+
+data:{"timestamp": 1667473009, "coords": [37.3362988, 55.7468408], "heading": 2.75, "velocity": 56.24, "accuracy": [1.98, 2.89]}
+
+
+data:{"timestamp": 1667473010, "coords": [37.3363025, 55.7469806], "heading": 0.13, "velocity": 55.98, "accuracy": [1.98, 2.9]}
+
+
+data:{"timestamp": 1667473011, "coords": [37.3362947, 55.7471199], "heading": 357.38, "velocity": 55.68, "accuracy": [1.98, 2.91]}
+
+
+data:{"timestamp": 1667473012, "coords": [37.3362746, 55.7472577], "heading": 354.44, "velocity": 55.26, "accuracy": [1.99, 2.93]}
+
+
+data:{"timestamp": 1667473013, "coords": [37.3362433, 55.7473938], "heading": 351.93, "velocity": 54.99, "accuracy": [2.0, 2.94]}
+
+
+data:{"timestamp": 1667473014, "coords": [37.3362016, 55.7475285], "heading": 349.34, "velocity": 54.99, "accuracy": [1.99, 2.94]}
+
+
+data:{"timestamp": 1667473015, "coords": [37.3361481, 55.7476614], "heading": 346.32, "velocity": 54.51, "accuracy": [1.99, 2.94]}
+
+
+data:{"timestamp": 1667473016, "coords": [37.3360836, 55.747792], "heading": 343.67, "velocity": 54.45, "accuracy": [2.0, 2.94]}
+
+
+data:{"timestamp": 1667473017, "coords": [37.336008, 55.7479213], "heading": 340.97, "velocity": 54.66, "accuracy": [2.0, 2.93]}
+
+
+data:{"timestamp": 1667473018, "coords": [37.3359215, 55.7480483], "heading": 338.15, "velocity": 54.6, "accuracy": [2.0, 2.92]}
+
+
+data:{"timestamp": 1667473019, "coords": [37.335824, 55.7481729], "heading": 335.35, "velocity": 54.7, "accuracy": [2.0, 2.92]}
+
+
+data:{"timestamp": 1667473020, "coords": [37.3357158, 55.7482952], "heading": 332.69, "velocity": 54.93, "accuracy": [1.99, 2.91]}
+
+
+data:{"timestamp": 1667473021, "coords": [37.3355971, 55.7484147], "heading": 329.92, "velocity": 55.08, "accuracy": [1.98, 2.9]}
+
+
+data:{"timestamp": 1667473022, "coords": [37.3354677, 55.7485314], "heading": 327.21, "velocity": 55.14, "accuracy": [1.97, 2.9]}
+
+
+data:{"timestamp": 1667473023, "coords": [37.3353278, 55.748645], "heading": 324.38, "velocity": 55.32, "accuracy": [1.96, 2.88]}
+
+
+data:{"timestamp": 1667473024, "coords": [37.3351788, 55.7487545], "heading": 321.7, "velocity": 55.35, "accuracy": [1.95, 2.88]}
+
+
+data:{"timestamp": 1667473025, "coords": [37.3350205, 55.7488602], "heading": 319.06, "velocity": 55.63, "accuracy": [1.95, 2.88]}
+
+
+data:{"timestamp": 1667473026, "coords": [37.3348526, 55.7489615], "heading": 316.09, "velocity": 55.61, "accuracy": [1.95, 2.88]}
+
+
+data:{"timestamp": 1667473027, "coords": [37.3346758, 55.7490579], "heading": 313.29, "velocity": 55.7, "accuracy": [1.95, 2.89]}
+
+
+data:{"timestamp": 1667473028, "coords": [37.3344912, 55.7491499], "heading": 310.7, "velocity": 55.72, "accuracy": [1.96, 2.9]}
+
+
+data:{"timestamp": 1667473029, "coords": [37.3342989, 55.7492366], "heading": 307.82, "velocity": 55.61, "accuracy": [1.97, 2.91]}
+
+
+data:{"timestamp": 1667473030, "coords": [37.334099, 55.7493173], "heading": 304.79, "velocity": 55.66, "accuracy": [1.98, 2.93]}
+
+
+data:{"timestamp": 1667473031, "coords": [37.3338922, 55.7493928], "heading": 302.25, "velocity": 55.83, "accuracy": [1.98, 2.94]}
+
+
+data:{"timestamp": 1667473032, "coords": [37.3336793, 55.7494623], "heading": 299.32, "velocity": 55.7, "accuracy": [1.99, 2.95]}
+
+
+data:{"timestamp": 1667473033, "coords": [37.3334598, 55.7495265], "heading": 296.64, "velocity": 55.91, "accuracy": [1.99, 2.94]}
+
+
+data:{"timestamp": 1667473034, "coords": [37.3332354, 55.7495847], "heading": 293.83, "velocity": 55.83, "accuracy": [1.99, 2.92]}
+
+
+data:{"timestamp": 1667473035, "coords": [37.3330063, 55.7496371], "heading": 291.1, "velocity": 55.94, "accuracy": [1.98, 2.89]}
+
+
+data:{"timestamp": 1667473036, "coords": [37.3327731, 55.7496829], "heading": 288.38, "velocity": 55.78, "accuracy": [1.98, 2.89]}
+
+
+data:{"timestamp": 1667473037, "coords": [37.3325375, 55.749722], "heading": 285.5, "velocity": 55.38, "accuracy": [1.98, 2.89]}
+
+
+data:{"timestamp": 1667473038, "coords": [37.3322991, 55.7497542], "heading": 282.58, "velocity": 55.41, "accuracy": [1.99, 2.89]}
+
+
+data:{"timestamp": 1667473039, "coords": [37.3320582, 55.7497797], "heading": 279.91, "velocity": 55.41, "accuracy": [2.01, 2.9]}
+
+
+data:{"timestamp": 1667473040, "coords": [37.331815, 55.7497986], "heading": 276.93, "velocity": 55.46, "accuracy": [2.01, 2.9]}
+
+
+data:{"timestamp": 1667473041, "coords": [37.3315708, 55.7498107], "heading": 274.18, "velocity": 55.35, "accuracy": [2.0, 2.89]}
+
+
+data:{"timestamp": 1667473042, "coords": [37.3313261, 55.7498172], "heading": 272.04, "velocity": 55.31, "accuracy": [2.0, 2.89]}
+
+
+data:{"timestamp": 1667473043, "coords": [37.3310816, 55.7498192], "heading": 270.42, "velocity": 55.18, "accuracy": [2.0, 2.88]}
+
+
+data:{"timestamp": 1667473044, "coords": [37.3308373, 55.7498181], "heading": 269.35, "velocity": 55.23, "accuracy": [1.99, 2.87]}
+
+
+data:{"timestamp": 1667473045, "coords": [37.3305932, 55.7498161], "heading": 269.2, "velocity": 55.13, "accuracy": [1.98, 2.86]}
+
+
+data:{"timestamp": 1667473046, "coords": [37.3303496, 55.7498137], "heading": 269.07, "velocity": 55.05, "accuracy": [1.97, 2.84]}
+
+
+data:{"timestamp": 1667473047, "coords": [37.3301058, 55.7498114], "heading": 269.13, "velocity": 55.1, "accuracy": [1.96, 2.82]}
+
+
+data:{"timestamp": 1667473048, "coords": [37.329862, 55.7498088], "heading": 269.01, "velocity": 55.1, "accuracy": [1.95, 2.8]}
+
+
+data:{"timestamp": 1667473049, "coords": [37.3296179, 55.7498059], "heading": 268.86, "velocity": 55.14, "accuracy": [1.94, 2.78]}
+
+
+data:{"timestamp": 1667473050, "coords": [37.3293736, 55.7498032], "heading": 268.97, "velocity": 55.24, "accuracy": [1.93, 2.76]}
+
+
+data:{"timestamp": 1667473051, "coords": [37.3291289, 55.7498005], "heading": 268.88, "velocity": 55.29, "accuracy": [1.93, 2.75]}
+
+
+data:{"timestamp": 1667473052, "coords": [37.3288838, 55.7497977], "heading": 268.92, "velocity": 55.44, "accuracy": [1.93, 2.75]}
+
+
+data:{"timestamp": 1667473054, "coords": [37.3283931, 55.7497915], "heading": 268.8, "velocity": 55.5, "accuracy": [1.94, 2.76]}
+
+
+data:{"timestamp": 1667473055, "coords": [37.3281475, 55.7497886], "heading": 268.84, "velocity": 55.54, "accuracy": [1.95, 2.78]}
+
+
+data:{"timestamp": 1667473056, "coords": [37.3279003, 55.7497857], "heading": 268.82, "velocity": 56.01, "accuracy": [1.97, 2.79]}
+
+
+data:{"timestamp": 1667473057, "coords": [37.3276504, 55.7497827], "heading": 268.83, "velocity": 56.68, "accuracy": [1.99, 2.81]}
+
+
+data:{"timestamp": 1667473058, "coords": [37.3273934, 55.7497795], "heading": 268.76, "velocity": 58.69, "accuracy": [2.0, 2.82]}
+
+
+data:{"timestamp": 1667473059, "coords": [37.3271276, 55.7497766], "heading": 269.01, "velocity": 60.67, "accuracy": [2.02, 2.84]}
+
+
+data:{"timestamp": 1667473060, "coords": [37.3268526, 55.7497734], "heading": 268.77, "velocity": 62.8, "accuracy": [2.03, 2.86]}
+
+
+data:{"timestamp": 1667473061, "coords": [37.326569, 55.7497699], "heading": 268.72, "velocity": 64.74, "accuracy": [2.05, 2.88]}
+
+
+data:{"timestamp": 1667473062, "coords": [37.3262801, 55.7497666], "heading": 268.98, "velocity": 65.57, "accuracy": [2.07, 2.91]}
+
+
+data:{"timestamp": 1667473063, "coords": [37.3259879, 55.7497635], "heading": 268.97, "velocity": 66.3, "accuracy": [2.09, 2.92]}
+
+
+data:{"timestamp": 1667473064, "coords": [37.3256936, 55.7497598], "heading": 268.71, "velocity": 66.7, "accuracy": [2.12, 2.93]}
+
+
+data:{"timestamp": 1667473065, "coords": [37.3253978, 55.7497556], "heading": 268.66, "velocity": 66.97, "accuracy": [2.15, 2.95]}
+
+
+data:{"timestamp": 1667473066, "coords": [37.3251013, 55.7497518], "heading": 268.73, "velocity": 67.13, "accuracy": [2.17, 2.98]}
+
+
+data:{"timestamp": 1667473067, "coords": [37.324804, 55.7497482], "heading": 268.88, "velocity": 67.29, "accuracy": [2.21, 2.99]}
+
+
+data:{"timestamp": 1667473068, "coords": [37.3245077, 55.7497439], "heading": 268.6, "velocity": 66.85, "accuracy": [2.25, 3.01]}
+
+
+data:{"timestamp": 1667473069, "coords": [37.3242127, 55.7497395], "heading": 268.61, "velocity": 66.61, "accuracy": [2.28, 3.03]}
+
+
+data:{"timestamp": 1667473070, "coords": [37.3239182, 55.7497362], "heading": 268.96, "velocity": 66.6, "accuracy": [2.32, 3.06]}
+
+
+data:{"timestamp": 1667473071, "coords": [37.323623, 55.7497324], "heading": 268.74, "velocity": 66.77, "accuracy": [2.36, 3.09]}
+
+
+data:{"timestamp": 1667473072, "coords": [37.3233275, 55.7497279], "heading": 268.5, "velocity": 66.84, "accuracy": [2.39, 3.12]}
+
+
+data:{"timestamp": 1667473073, "coords": [37.323033, 55.7497237], "heading": 268.66, "velocity": 66.51, "accuracy": [2.42, 3.16]}
+
+
+data:{"timestamp": 1667473074, "coords": [37.3227399, 55.7497193], "heading": 268.48, "velocity": 66.25, "accuracy": [2.45, 3.18]}
+
+
+data:{"timestamp": 1667473075, "coords": [37.3224473, 55.7497148], "heading": 268.45, "velocity": 66.14, "accuracy": [2.48, 3.22]}
+
+
+data:{"timestamp": 1667473076, "coords": [37.3221547, 55.7497095], "heading": 268.32, "velocity": 66.19, "accuracy": [2.49, 3.23]}
+
+
+data:{"timestamp": 1667473077, "coords": [37.321863, 55.7497035], "heading": 267.86, "velocity": 65.9, "accuracy": [2.51, 3.26]}
+
+
+data:{"timestamp": 1667473078, "coords": [37.3215719, 55.7496958], "heading": 267.17, "velocity": 65.85, "accuracy": [2.51, 3.29]}
+
+
+data:{"timestamp": 1667473079, "coords": [37.321283, 55.7496833], "heading": 265.5, "velocity": 65.47, "accuracy": [2.5, 3.32]}
+
+
+data:{"timestamp": 1667473080, "coords": [37.3209946, 55.7496684], "heading": 264.6, "velocity": 65.56, "accuracy": [2.5, 3.35]}
+
+
+data:{"timestamp": 1667473081, "coords": [37.3207064, 55.7496514], "heading": 263.77, "velocity": 65.51, "accuracy": [2.53, 3.41]}
+
+
+data:{"timestamp": 1667473082, "coords": [37.3204192, 55.7496315], "heading": 262.62, "velocity": 65.46, "accuracy": [2.56, 3.46]}
+
+
+data:{"timestamp": 1667473083, "coords": [37.3201327, 55.7496086], "heading": 261.67, "velocity": 65.48, "accuracy": [2.59, 3.52]}
+
+
+data:{"timestamp": 1667473084, "coords": [37.3198481, 55.7495829], "heading": 260.56, "velocity": 65.07, "accuracy": [2.61, 3.56]}
+
+
+data:{"timestamp": 1667473085, "coords": [37.3195654, 55.7495546], "heading": 259.69, "velocity": 64.86, "accuracy": [2.62, 3.59]}
+
+
+data:{"timestamp": 1667473086, "coords": [37.3192837, 55.7495247], "heading": 259.08, "velocity": 64.78, "accuracy": [2.63, 3.62]}
+
+
+data:{"timestamp": 1667473087, "coords": [37.3190019, 55.7494941], "heading": 258.77, "velocity": 64.93, "accuracy": [2.63, 3.64]}
+
+
+data:{"timestamp": 1667473088, "coords": [37.3187191, 55.7494632], "heading": 258.7, "velocity": 65.21, "accuracy": [2.63, 3.66]}
+
+
+data:{"timestamp": 1667473089, "coords": [37.3184357, 55.7494322], "heading": 258.81, "velocity": 65.3, "accuracy": [2.63, 3.67]}
+
+
+data:{"timestamp": 1667473090, "coords": [37.318151, 55.7494008], "heading": 258.64, "velocity": 65.73, "accuracy": [2.61, 3.66]}
+
+
+data:{"timestamp": 1667473091, "coords": [37.3178656, 55.7493697], "heading": 258.83, "velocity": 65.79, "accuracy": [2.6, 3.65]}
+
+
+data:{"timestamp": 1667473092, "coords": [37.3175791, 55.7493382], "heading": 258.72, "velocity": 66.06, "accuracy": [2.57, 3.61]}
+
+
+data:{"timestamp": 1667473093, "coords": [37.3172912, 55.749307], "heading": 258.9, "velocity": 66.36, "accuracy": [2.54, 3.55]}
+
+
+data:{"timestamp": 1667473094, "coords": [37.3170028, 55.7492744], "heading": 258.29, "velocity": 66.63, "accuracy": [2.51, 3.5]}
+
+
+data:{"timestamp": 1667473095, "coords": [37.3167137, 55.7492397], "heading": 257.5, "velocity": 66.95, "accuracy": [2.48, 3.46]}
+
+
+data:{"timestamp": 1667473096, "coords": [37.3164243, 55.7492021], "heading": 256.58, "velocity": 67.23, "accuracy": [2.47, 3.43]}
+
+
+data:{"timestamp": 1667473097, "coords": [37.316136, 55.7491609], "heading": 255.17, "velocity": 67.23, "accuracy": [2.46, 3.41]}
+
+
+data:{"timestamp": 1667473098, "coords": [37.31585, 55.7491161], "heading": 253.96, "velocity": 67.1, "accuracy": [2.44, 3.4]}
+
+
+data:{"timestamp": 1667473099, "coords": [37.3155665, 55.7490671], "heading": 252.69, "velocity": 67.04, "accuracy": [2.44, 3.4]}
+
+
+data:{"timestamp": 1667473100, "coords": [37.3152845, 55.7490149], "heading": 251.57, "velocity": 67.08, "accuracy": [2.43, 3.4]}
+
+
+data:{"timestamp": 1667473101, "coords": [37.315004, 55.748959], "heading": 250.27, "velocity": 67.36, "accuracy": [2.41, 3.4]}
+
+
+data:{"timestamp": 1667473102, "coords": [37.3147247, 55.7488996], "heading": 249.11, "velocity": 67.5, "accuracy": [2.4, 3.39]}
+
+
+data:{"timestamp": 1667473103, "coords": [37.3144468, 55.7488372], "heading": 247.92, "velocity": 67.68, "accuracy": [2.4, 3.39]}
+
+
+data:{"timestamp": 1667473104, "coords": [37.314171, 55.7487727], "heading": 247.36, "velocity": 67.41, "accuracy": [2.4, 3.42]}
+
+
+data:{"timestamp": 1667473105, "coords": [37.3138971, 55.7487081], "heading": 247.37, "velocity": 67.05, "accuracy": [2.42, 3.46]}
+
+
+data:{"timestamp": 1667473106, "coords": [37.3136239, 55.7486437], "heading": 247.3, "velocity": 66.93, "accuracy": [2.43, 3.49]}
+
+
+data:{"timestamp": 1667473107, "coords": [37.3133514, 55.7485793], "heading": 247.26, "velocity": 66.8, "accuracy": [2.43, 3.52]}
+
+
+data:{"timestamp": 1667473108, "coords": [37.3130795, 55.7485149], "heading": 247.3, "velocity": 66.64, "accuracy": [2.44, 3.53]}
+
+
+data:{"timestamp": 1667473109, "coords": [37.3128078, 55.7484503], "heading": 247.17, "velocity": 66.67, "accuracy": [2.44, 3.54]}
+
+
+data:{"timestamp": 1667473110, "coords": [37.3125373, 55.7483834], "heading": 246.1, "velocity": 66.83, "accuracy": [2.43, 3.53]}
+
+
+data:{"timestamp": 1667473111, "coords": [37.3122692, 55.7483123], "heading": 244.57, "velocity": 66.95, "accuracy": [2.41, 3.48]}
+
+
+data:{"timestamp": 1667473112, "coords": [37.3120043, 55.7482362], "heading": 242.74, "velocity": 67.22, "accuracy": [2.39, 3.42]}
+
+
+data:{"timestamp": 1667473113, "coords": [37.311745, 55.7481539], "heading": 240.19, "velocity": 67.26, "accuracy": [2.36, 3.36]}
+
+
+data:{"timestamp": 1667473114, "coords": [37.3114917, 55.748065], "heading": 237.77, "velocity": 67.45, "accuracy": [2.31, 3.29]}
+
+
+data:{"timestamp": 1667473115, "coords": [37.3112453, 55.7479701], "heading": 235.22, "velocity": 67.33, "accuracy": [2.28, 3.22]}
+
+
+data:{"timestamp": 1667473116, "coords": [37.3110069, 55.7478701], "heading": 232.81, "velocity": 66.91, "accuracy": [2.25, 3.15]}
+
+
+data:{"timestamp": 1667473117, "coords": [37.3107774, 55.7477648], "heading": 230.36, "velocity": 66.74, "accuracy": [2.23, 3.09]}
+
+
+data:{"timestamp": 1667473118, "coords": [37.3105567, 55.7476539], "heading": 227.73, "velocity": 66.73, "accuracy": [2.2, 3.04]}
+
+
+data:{"timestamp": 1667473119, "coords": [37.3103447, 55.7475374], "heading": 225.19, "velocity": 66.83, "accuracy": [2.18, 3.0]}
+
+
+data:{"timestamp": 1667473120, "coords": [37.3101409, 55.7474161], "heading": 222.9, "velocity": 66.87, "accuracy": [2.15, 2.96]}
+
+
+data:{"timestamp": 1667473121, "coords": [37.3099443, 55.7472915], "heading": 221.28, "velocity": 66.71, "accuracy": [2.15, 2.94]}
+
+
+data:{"timestamp": 1667473122, "coords": [37.3097535, 55.7471642], "heading": 219.87, "velocity": 66.66, "accuracy": [2.15, 2.93]}
+
+
+data:{"timestamp": 1667473123, "coords": [37.309566, 55.7470357], "heading": 219.32, "velocity": 66.64, "accuracy": [2.15, 2.93]}
+
+
+data:{"timestamp": 1667473124, "coords": [37.3093804, 55.7469068], "heading": 219.17, "velocity": 66.41, "accuracy": [2.14, 2.93]}
+
+
+data:{"timestamp": 1667473125, "coords": [37.3091956, 55.7467779], "heading": 218.93, "velocity": 66.39, "accuracy": [2.14, 2.93]}
+
+
+data:{"timestamp": 1667473126, "coords": [37.3090112, 55.7466494], "heading": 219.08, "velocity": 66.14, "accuracy": [2.14, 2.94]}
+
+
+data:{"timestamp": 1667473127, "coords": [37.3088274, 55.7465208], "heading": 218.92, "velocity": 66.01, "accuracy": [2.13, 2.93]}
+
+
+data:{"timestamp": 1667473128, "coords": [37.3086451, 55.7463931], "heading": 218.77, "velocity": 65.6, "accuracy": [2.12, 2.93]}
+
+
+data:{"timestamp": 1667473129, "coords": [37.3084631, 55.7462656], "heading": 218.98, "velocity": 65.4, "accuracy": [2.12, 2.92]}
+
+
+data:{"timestamp": 1667473130, "coords": [37.3082814, 55.7461386], "heading": 218.92, "velocity": 65.26, "accuracy": [2.1, 2.91]}
+
+
+data:{"timestamp": 1667473131, "coords": [37.3081007, 55.746012], "heading": 218.87, "velocity": 64.98, "accuracy": [2.09, 2.9]}
+
+
+data:{"timestamp": 1667473132, "coords": [37.307919, 55.7458851], "heading": 218.89, "velocity": 65.34, "accuracy": [2.07, 2.86]}
+
+
+data:{"timestamp": 1667473133, "coords": [37.3077352, 55.7457567], "heading": 218.94, "velocity": 66.35, "accuracy": [2.05, 2.85]}
+
+
+data:{"timestamp": 1667473134, "coords": [37.3075474, 55.7456256], "heading": 218.98, "velocity": 67.89, "accuracy": [2.04, 2.84]}
+
+
+data:{"timestamp": 1667473135, "coords": [37.3073561, 55.7454918], "heading": 218.87, "velocity": 69.25, "accuracy": [2.04, 2.84]}
+
+
+data:{"timestamp": 1667473136, "coords": [37.307161, 55.7453555], "heading": 218.94, "velocity": 70.53, "accuracy": [2.04, 2.84]}
+
+
+data:{"timestamp": 1667473137, "coords": [37.3069622, 55.7452166], "heading": 218.93, "velocity": 71.94, "accuracy": [2.04, 2.84]}
+
+
+data:{"timestamp": 1667473138, "coords": [37.3067598, 55.7450752], "heading": 218.94, "velocity": 73.18, "accuracy": [2.03, 2.84]}
+
+
+data:{"timestamp": 1667473139, "coords": [37.3065536, 55.7449313], "heading": 218.97, "velocity": 74.56, "accuracy": [2.02, 2.83]}
+
+
+data:{"timestamp": 1667473140, "coords": [37.3063449, 55.7447862], "heading": 219.01, "velocity": 75.06, "accuracy": [2.01, 2.83]}
+
+
+data:{"timestamp": 1667473141, "coords": [37.3061359, 55.7446405], "heading": 218.99, "velocity": 75.18, "accuracy": [2.0, 2.82]}
+
+
+data:{"timestamp": 1667473142, "coords": [37.3059271, 55.7444948], "heading": 218.88, "velocity": 75.03, "accuracy": [1.99, 2.81]}
+
+
+data:{"timestamp": 1667473143, "coords": [37.3057186, 55.7443485], "heading": 218.75, "velocity": 75.28, "accuracy": [1.99, 2.81]}
+
+
+data:{"timestamp": 1667473144, "coords": [37.3055095, 55.7442022], "heading": 218.91, "velocity": 75.38, "accuracy": [1.99, 2.8]}
+
+
+data:{"timestamp": 1667473145, "coords": [37.3052997, 55.7440555], "heading": 218.89, "velocity": 75.67, "accuracy": [1.98, 2.81]}
+
+
+data:{"timestamp": 1667473146, "coords": [37.3050895, 55.7439082], "heading": 218.82, "velocity": 75.82, "accuracy": [1.98, 2.81]}
+
+
+data:{"timestamp": 1667473147, "coords": [37.3048786, 55.7437607], "heading": 218.89, "velocity": 76.05, "accuracy": [1.98, 2.81]}
+
+
+data:{"timestamp": 1667473148, "coords": [37.3046671, 55.7436121], "heading": 218.63, "velocity": 76.47, "accuracy": [1.97, 2.79]}
+
+
+data:{"timestamp": 1667473149, "coords": [37.3044549, 55.7434633], "heading": 218.76, "velocity": 76.62, "accuracy": [1.97, 2.78]}
+
+
+data:{"timestamp": 1667473150, "coords": [37.3042419, 55.7433141], "heading": 218.81, "velocity": 76.9, "accuracy": [1.96, 2.77]}
+
+
+data:{"timestamp": 1667473151, "coords": [37.3040287, 55.7431656], "heading": 218.94, "velocity": 76.59, "accuracy": [1.95, 2.76]}
+
+
+data:{"timestamp": 1667473152, "coords": [37.303816, 55.7430171], "heading": 218.92, "velocity": 76.47, "accuracy": [1.95, 2.76]}
+
+
+data:{"timestamp": 1667473153, "coords": [37.3036031, 55.7428685], "heading": 218.9, "velocity": 76.65, "accuracy": [1.94, 2.75]}
+
+
+data:{"timestamp": 1667473154, "coords": [37.3033899, 55.7427191], "heading": 218.76, "velocity": 77.0, "accuracy": [1.94, 2.75]}
+
+
+data:{"timestamp": 1667473155, "coords": [37.3031769, 55.742569], "heading": 218.67, "velocity": 76.98, "accuracy": [1.94, 2.75]}
+
+
+data:{"timestamp": 1667473156, "coords": [37.3029637, 55.7424192], "heading": 218.75, "velocity": 76.98, "accuracy": [1.95, 2.76]}
+
+
+data:{"timestamp": 1667473157, "coords": [37.3027511, 55.74227], "heading": 218.76, "velocity": 76.61, "accuracy": [1.96, 2.77]}
+
+
+data:{"timestamp": 1667473158, "coords": [37.3025383, 55.7421214], "heading": 218.94, "velocity": 76.5, "accuracy": [1.96, 2.78]}
+
+
+data:{"timestamp": 1667473159, "coords": [37.3023238, 55.7419741], "heading": 219.58, "velocity": 76.3, "accuracy": [1.97, 2.79]}
+
+
+data:{"timestamp": 1667473160, "coords": [37.3021061, 55.7418294], "heading": 220.53, "velocity": 76.01, "accuracy": [1.99, 2.81]}
+
+
+data:{"timestamp": 1667473161, "coords": [37.3018836, 55.7416872], "heading": 221.73, "velocity": 76.09, "accuracy": [2.01, 2.84]}
+
+
+data:{"timestamp": 1667473162, "coords": [37.3016539, 55.741549], "heading": 223.55, "velocity": 75.94, "accuracy": [2.03, 2.87]}
+
+
+data:{"timestamp": 1667473163, "coords": [37.3014161, 55.7414135], "heading": 225.11, "velocity": 76.65, "accuracy": [2.04, 2.89]}
+
+
+data:{"timestamp": 1667473164, "coords": [37.3011693, 55.7412815], "heading": 227.08, "velocity": 76.97, "accuracy": [2.06, 2.92]}
+
+
+data:{"timestamp": 1667473165, "coords": [37.3009137, 55.7411528], "heading": 228.73, "velocity": 77.59, "accuracy": [2.08, 2.95]}
+
+
+data:{"timestamp": 1667473166, "coords": [37.3006517, 55.7410288], "heading": 230.5, "velocity": 77.16, "accuracy": [2.1, 2.96]}
+
+
+data:{"timestamp": 1667473167, "coords": [37.3003841, 55.7409112], "heading": 232.68, "velocity": 76.51, "accuracy": [2.11, 2.97]}
+
+
+data:{"timestamp": 1667473168, "coords": [37.3001115, 55.7408002], "heading": 234.77, "velocity": 75.78, "accuracy": [2.11, 2.98]}
+
+
+data:{"timestamp": 1667473169, "coords": [37.2998353, 55.740695], "heading": 236.52, "velocity": 75.17, "accuracy": [2.11, 2.98]}
+
+
+data:{"timestamp": 1667473170, "coords": [37.2995558, 55.7405961], "heading": 238.44, "velocity": 74.37, "accuracy": [2.11, 2.99]}
+
+
+data:{"timestamp": 1667473171, "coords": [37.2992739, 55.740503], "heading": 240.17, "velocity": 73.64, "accuracy": [2.11, 2.98]}
+
+
+data:{"timestamp": 1667473172, "coords": [37.298991, 55.740414], "heading": 241.22, "velocity": 72.99, "accuracy": [2.12, 2.97]}
+
+
+data:{"timestamp": 1667473173, "coords": [37.2987076, 55.7403291], "heading": 242.35, "velocity": 72.25, "accuracy": [2.12, 2.95]}
+
+
+data:{"timestamp": 1667473174, "coords": [37.2984274, 55.7402483], "heading": 243.02, "velocity": 70.65, "accuracy": [2.12, 2.93]}
+
+
+data:{"timestamp": 1667473175, "coords": [37.2981533, 55.7401715], "heading": 243.45, "velocity": 68.6, "accuracy": [2.11, 2.92]}
+
+
+data:{"timestamp": 1667473176, "coords": [37.2978853, 55.7400975], "heading": 243.83, "velocity": 67.0, "accuracy": [2.1, 2.9]}
+
+
+data:{"timestamp": 1667473177, "coords": [37.2976248, 55.7400254], "heading": 243.69, "velocity": 65.03, "accuracy": [2.09, 2.89]}
+
+
+data:{"timestamp": 1667473178, "coords": [37.2973729, 55.739955], "heading": 243.51, "velocity": 62.92, "accuracy": [2.08, 2.87]}
+
+
+data:{"timestamp": 1667473179, "coords": [37.2971296, 55.7398858], "heading": 243.24, "velocity": 60.96, "accuracy": [2.09, 2.87]}
+
+
+data:{"timestamp": 1667473181, "coords": [37.2966689, 55.7397491], "heading": 241.4, "velocity": 57.48, "accuracy": [2.1, 2.88]}
+
+
+data:{"timestamp": 1667473182, "coords": [37.2964509, 55.7396812], "heading": 240.93, "velocity": 55.76, "accuracy": [2.12, 2.89]}
+
+
+data:{"timestamp": 1667473183, "coords": [37.2962424, 55.7396139], "heading": 240.05, "velocity": 53.61, "accuracy": [2.14, 2.92]}
+
+
+data:{"timestamp": 1667473184, "coords": [37.2960457, 55.7395476], "heading": 238.81, "velocity": 50.96, "accuracy": [2.16, 2.94]}
+
+
+data:{"timestamp": 1667473185, "coords": [37.2958612, 55.7394831], "heading": 238.1, "velocity": 48.19, "accuracy": [2.18, 2.97]}
+
+
+data:{"timestamp": 1667473186, "coords": [37.295687, 55.7394205], "heading": 237.35, "velocity": 45.98, "accuracy": [2.18, 2.98]}
+
+
+data:{"timestamp": 1667473187, "coords": [37.2955227, 55.7393606], "heading": 237.29, "velocity": 43.32, "accuracy": [2.18, 3.0]}
+
+
+data:{"timestamp": 1667473188, "coords": [37.29537, 55.7393037], "heading": 236.46, "velocity": 40.48, "accuracy": [2.18, 3.01]}
+
+
+data:{"timestamp": 1667473189, "coords": [37.2952276, 55.7392505], "heading": 236.62, "velocity": 37.71, "accuracy": [2.18, 3.04]}
+
+
+data:{"timestamp": 1667473190, "coords": [37.2950943, 55.7392001], "heading": 236.16, "velocity": 35.56, "accuracy": [2.19, 3.05]}
+
+
+data:{"timestamp": 1667473191, "coords": [37.2949677, 55.7391522], "heading": 236.1, "velocity": 33.85, "accuracy": [2.21, 3.07]}
+
+
+data:{"timestamp": 1667473192, "coords": [37.2948486, 55.7391059], "heading": 235.37, "velocity": 32.06, "accuracy": [2.27, 3.1]}
+
+
+data:{"timestamp": 1667473193, "coords": [37.294736, 55.7390622], "heading": 235.84, "velocity": 30.25, "accuracy": [2.31, 3.12]}
+
+
+data:{"timestamp": 1667473194, "coords": [37.2946294, 55.7390217], "heading": 236.09, "velocity": 28.46, "accuracy": [2.33, 3.16]}
+
+
+data:{"timestamp": 1667473195, "coords": [37.2945272, 55.7389818], "heading": 235.89, "velocity": 27.93, "accuracy": [2.33, 3.15]}
+
+
+data:{"timestamp": 1667473196, "coords": [37.2944257, 55.7389431], "heading": 236.05, "velocity": 27.55, "accuracy": [2.32, 3.15]}
+
+
+data:{"timestamp": 1667473197, "coords": [37.2943264, 55.7389051], "heading": 235.62, "velocity": 27.0, "accuracy": [2.3, 3.14]}
+
+
+data:{"timestamp": 1667473198, "coords": [37.2942288, 55.7388685], "heading": 236.52, "velocity": 26.31, "accuracy": [2.28, 3.13]}
+
+
+data:{"timestamp": 1667473199, "coords": [37.2941342, 55.7388323], "heading": 235.85, "velocity": 25.66, "accuracy": [2.27, 3.12]}
+
+
+data:{"timestamp": 1667473200, "coords": [37.2940413, 55.738797], "heading": 235.94, "velocity": 25.21, "accuracy": [2.25, 3.11]}
+
+
+data:{"timestamp": 1667473201, "coords": [37.2939505, 55.7387626], "heading": 236.23, "velocity": 24.51, "accuracy": [2.23, 3.09]}
+
+
+data:{"timestamp": 1667473202, "coords": [37.2938644, 55.7387297], "heading": 235.96, "velocity": 23.01, "accuracy": [2.22, 3.09]}
+
+
+data:{"timestamp": 1667473203, "coords": [37.2937842, 55.7387], "heading": 236.26, "velocity": 21.29, "accuracy": [2.2, 3.07]}
+
+
+data:{"timestamp": 1667473204, "coords": [37.2937099, 55.7386724], "heading": 236.52, "velocity": 19.69, "accuracy": [2.19, 3.06]}
+
+
+data:{"timestamp": 1667473205, "coords": [37.2936428, 55.7386477], "heading": 236.57, "velocity": 17.54, "accuracy": [2.17, 3.05]}
+
+
+data:{"timestamp": 1667473206, "coords": [37.2935839, 55.7386265], "heading": 236.88, "velocity": 15.25, "accuracy": [2.16, 3.02]}
+
+
+data:{"timestamp": 1667473207, "coords": [37.2935322, 55.7386078], "heading": 236.82, "velocity": 13.49, "accuracy": [2.14, 2.99]}
+
+
+data:{"timestamp": 1667473208, "coords": [37.2934873, 55.7385916], "heading": 236.54, "velocity": 11.63, "accuracy": [2.12, 2.96]}
+
+
+data:{"timestamp": 1667473209, "coords": [37.2934484, 55.7385773], "heading": 236.83, "velocity": 10.12, "accuracy": [2.1, 2.94]}
+
+
+data:{"timestamp": 1667473210, "coords": [37.2934155, 55.7385657], "heading": 237.05, "velocity": 8.31, "accuracy": [2.08, 2.93]}
+
+
+data:{"timestamp": 1667473211, "coords": [37.2933899, 55.7385565], "heading": 237.5, "velocity": 6.3, "accuracy": [2.07, 2.92]}
+
+
+data:{"timestamp": 1667473212, "coords": [37.2933722, 55.7385503], "heading": 237.62, "velocity": 4.17, "accuracy": [2.06, 2.91]}
+
+
+data:{"timestamp": 1667473213, "coords": [37.2933613, 55.7385466], "heading": 236.98, "velocity": 2.39, "accuracy": [2.04, 2.89]}
+
+
+data:{"timestamp": 1667473214, "coords": [37.2933539, 55.7385444], "heading": 239.45, "velocity": 1.73, "accuracy": [2.02, 2.87]}
+
+
+data:{"timestamp": 1667473215, "coords": [37.293351, 55.7385437], "heading": 238.03, "velocity": 0.34, "accuracy": [2.0, 2.85]}
+
+
+data:{"timestamp": 1667473216, "coords": [37.2933506, 55.738544], "heading": 238.03, "velocity": 0.03, "accuracy": [1.99, 2.84]}
+
+
+data:{"timestamp": 1667473217, "coords": [37.2933506, 55.7385443], "heading": 238.03, "velocity": 0.0, "accuracy": [1.98, 2.82]}
+
+
+data:{"timestamp": 1667473218, "coords": [37.2933506, 55.7385447], "heading": 238.03, "velocity": 0.01, "accuracy": [1.97, 2.81]}
+
+
+data:{"timestamp": 1667473219, "coords": [37.2933506, 55.7385451], "heading": 238.03, "velocity": 0.05, "accuracy": [1.96, 2.8]}
+
+
+data:{"timestamp": 1667473220, "coords": [37.2933507, 55.7385455], "heading": 238.03, "velocity": 0.03, "accuracy": [1.96, 2.8]}
+
+
+data:{"timestamp": 1667473221, "coords": [37.2933507, 55.7385456], "heading": 238.03, "velocity": 0.04, "accuracy": [1.95, 2.8]}
+
+
+data:{"timestamp": 1667473222, "coords": [37.2933508, 55.7385457], "heading": 238.03, "velocity": 0.07, "accuracy": [1.96, 2.8]}
+
+
+data:{"timestamp": 1667473223, "coords": [37.293351, 55.7385456], "heading": 238.03, "velocity": 0.1, "accuracy": [1.96, 2.81]}
+
+
+data:{"timestamp": 1667473224, "coords": [37.293351, 55.7385456], "heading": 238.03, "velocity": 0.01, "accuracy": [1.96, 2.82]}
+
+
+data:{"timestamp": 1667473225, "coords": [37.2933511, 55.7385459], "heading": 238.03, "velocity": 0.1, "accuracy": [1.96, 2.82]}
+
+
+data:{"timestamp": 1667473226, "coords": [37.2933509, 55.7385461], "heading": 238.03, "velocity": 0.03, "accuracy": [1.96, 2.82]}
+
+
+data:{"timestamp": 1667473227, "coords": [37.293351, 55.7385463], "heading": 238.03, "velocity": 0.04, "accuracy": [1.95, 2.81]}
+
+
+data:{"timestamp": 1667473228, "coords": [37.2933509, 55.7385466], "heading": 238.03, "velocity": 0.04, "accuracy": [1.95, 2.8]}
+
+
+data:{"timestamp": 1667473229, "coords": [37.2933508, 55.7385468], "heading": 238.03, "velocity": 0.01, "accuracy": [1.94, 2.78]}
+
+
+data:{"timestamp": 1667473230, "coords": [37.2933508, 55.7385471], "heading": 238.03, "velocity": 0.06, "accuracy": [1.93, 2.77]}
+
+
+data:{"timestamp": 1667473231, "coords": [37.2933506, 55.7385474], "heading": 238.03, "velocity": 0.0, "accuracy": [1.92, 2.76]}
+
+
+data:{"timestamp": 1667473232, "coords": [37.2933505, 55.7385477], "heading": 238.03, "velocity": 0.04, "accuracy": [1.91, 2.74]}
+
+
+data:{"timestamp": 1667473233, "coords": [37.2933503, 55.7385479], "heading": 238.03, "velocity": 0.04, "accuracy": [1.91, 2.73]}
+
+
+data:{"timestamp": 1667473234, "coords": [37.29335, 55.7385481], "heading": 238.03, "velocity": 0.08, "accuracy": [1.9, 2.73]}
+
+
+data:{"timestamp": 1667473235, "coords": [37.2933497, 55.7385484], "heading": 238.03, "velocity": 0.03, "accuracy": [1.9, 2.72]}
+
+
+data:{"timestamp": 1667473236, "coords": [37.2933496, 55.7385487], "heading": 238.03, "velocity": 0.05, "accuracy": [1.89, 2.73]}
+
+
+data:{"timestamp": 1667473237, "coords": [37.2933495, 55.7385489], "heading": 238.03, "velocity": 0.01, "accuracy": [1.9, 2.74]}
+
+
+data:{"timestamp": 1667473238, "coords": [37.2933493, 55.738549], "heading": 238.03, "velocity": 0.02, "accuracy": [1.9, 2.75]}
+
+
+data:{"timestamp": 1667473239, "coords": [37.2933491, 55.7385492], "heading": 238.03, "velocity": 0.01, "accuracy": [1.9, 2.75]}
+
+
+data:{"timestamp": 1667473240, "coords": [37.2933489, 55.7385495], "heading": 238.03, "velocity": 0.07, "accuracy": [1.9, 2.74]}
+
+
+data:{"timestamp": 1667473241, "coords": [37.2933488, 55.7385498], "heading": 238.03, "velocity": 0.03, "accuracy": [1.89, 2.73]}
+
+
+data:{"timestamp": 1667473242, "coords": [37.2933487, 55.7385501], "heading": 238.03, "velocity": 0.02, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473243, "coords": [37.2933486, 55.7385503], "heading": 238.03, "velocity": 0.02, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473244, "coords": [37.2933486, 55.7385506], "heading": 238.03, "velocity": 0.04, "accuracy": [1.88, 2.73]}
+
+
+data:{"timestamp": 1667473245, "coords": [37.2933485, 55.7385507], "heading": 238.03, "velocity": 0.01, "accuracy": [1.88, 2.73]}
+
+
+data:{"timestamp": 1667473246, "coords": [37.2933483, 55.7385508], "heading": 238.03, "velocity": 0.03, "accuracy": [1.88, 2.73]}
+
+
+data:{"timestamp": 1667473247, "coords": [37.2933482, 55.7385509], "heading": 238.03, "velocity": 0.0, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473248, "coords": [37.2933481, 55.7385512], "heading": 238.03, "velocity": 0.04, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473249, "coords": [37.2933481, 55.7385514], "heading": 238.03, "velocity": 0.09, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473250, "coords": [37.2933481, 55.7385516], "heading": 238.03, "velocity": 0.04, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473251, "coords": [37.293348, 55.7385516], "heading": 238.03, "velocity": 0.0, "accuracy": [1.87, 2.71]}
+
+
+data:{"timestamp": 1667473252, "coords": [37.2933479, 55.7385515], "heading": 238.03, "velocity": 0.06, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473253, "coords": [37.2933477, 55.7385515], "heading": 238.03, "velocity": 0.06, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473254, "coords": [37.2933477, 55.7385516], "heading": 238.03, "velocity": 0.01, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473255, "coords": [37.2933474, 55.7385517], "heading": 238.03, "velocity": 0.04, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473256, "coords": [37.2933474, 55.7385518], "heading": 238.03, "velocity": 0.11, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473257, "coords": [37.2933472, 55.7385518], "heading": 238.03, "velocity": 0.06, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473258, "coords": [37.2933471, 55.7385518], "heading": 238.03, "velocity": 0.04, "accuracy": [1.88, 2.72]}
+
+
+data:{"timestamp": 1667473259, "coords": [37.2933469, 55.7385518], "heading": 238.03, "velocity": 0.02, "accuracy": [1.89, 2.73]}
+
+
+data:{"timestamp": 1667473260, "coords": [37.2933455, 55.7385515], "heading": 238.03, "velocity": 0.5, "accuracy": [1.89, 2.72]}
+
+
+data:{"timestamp": 1667473261, "coords": [37.2933389, 55.7385495], "heading": 238.38, "velocity": 2.21, "accuracy": [1.88, 2.71]}
+
+
+data:{"timestamp": 1667473262, "coords": [37.2933252, 55.7385448], "heading": 238.36, "velocity": 4.25, "accuracy": [1.87, 2.7]}
+
+
+data:{"timestamp": 1667473263, "coords": [37.293304, 55.7385376], "heading": 238.16, "velocity": 6.15, "accuracy": [1.86, 2.69]}
+
+
+data:{"timestamp": 1667473264, "coords": [37.2932757, 55.7385277], "heading": 237.7, "velocity": 8.13, "accuracy": [1.85, 2.68]}
+
+
+data:{"timestamp": 1667473265, "coords": [37.2932399, 55.738515], "heading": 237.62, "velocity": 10.12, "accuracy": [1.84, 2.67]}
+
+
+data:{"timestamp": 1667473266, "coords": [37.2931968, 55.7384996], "heading": 237.6, "velocity": 12.16, "accuracy": [1.83, 2.67]}
+
+
+data:{"timestamp": 1667473267, "coords": [37.2931461, 55.7384816], "heading": 238.04, "velocity": 14.13, "accuracy": [1.83, 2.66]}
+
+
+data:{"timestamp": 1667473268, "coords": [37.293087, 55.7384612], "heading": 238.59, "velocity": 16.31, "accuracy": [1.82, 2.65]}
+
+
+data:{"timestamp": 1667473269, "coords": [37.2930195, 55.7384379], "heading": 238.61, "velocity": 18.54, "accuracy": [1.82, 2.65]}
+
+
+data:{"timestamp": 1667473270, "coords": [37.2929436, 55.7384124], "heading": 239.21, "velocity": 20.6, "accuracy": [1.81, 2.65]}
+
+
+data:{"timestamp": 1667473271, "coords": [37.2928603, 55.7383847], "heading": 239.77, "velocity": 22.32, "accuracy": [1.81, 2.66]}
+
+
+data:{"timestamp": 1667473272, "coords": [37.2927702, 55.7383548], "heading": 239.55, "velocity": 24.18, "accuracy": [1.82, 2.66]}
+
+
+data:{"timestamp": 1667473273, "coords": [37.2926717, 55.7383232], "heading": 240.75, "velocity": 26.19, "accuracy": [1.82, 2.68]}
+
+
+data:{"timestamp": 1667473274, "coords": [37.2925645, 55.7382897], "heading": 241.16, "velocity": 28.35, "accuracy": [1.83, 2.69]}
+
+
+data:{"timestamp": 1667473275, "coords": [37.2924486, 55.7382544], "heading": 241.79, "velocity": 30.37, "accuracy": [1.84, 2.7]}
+
+
+data:{"timestamp": 1667473276, "coords": [37.2923244, 55.7382174], "heading": 242.29, "velocity": 32.33, "accuracy": [1.85, 2.71]}
+
+
+data:{"timestamp": 1667473277, "coords": [37.2921918, 55.7381793], "heading": 243.22, "velocity": 34.25, "accuracy": [1.86, 2.73]}
+
+
+data:{"timestamp": 1667473278, "coords": [37.2920509, 55.7381404], "heading": 243.98, "velocity": 36.06, "accuracy": [1.87, 2.74]}
+
+
+data:{"timestamp": 1667473279, "coords": [37.2919015, 55.7381001], "heading": 244.73, "velocity": 37.98, "accuracy": [1.89, 2.75]}
+
+
+data:{"timestamp": 1667473280, "coords": [37.2917435, 55.738059], "heading": 245.52, "velocity": 39.84, "accuracy": [1.91, 2.77]}
+
+
+data:{"timestamp": 1667473281, "coords": [37.2915773, 55.738017], "heading": 246.05, "velocity": 41.63, "accuracy": [1.93, 2.79]}
+
+
+data:{"timestamp": 1667473282, "coords": [37.2914027, 55.7379751], "heading": 247.26, "velocity": 43.42, "accuracy": [1.96, 2.82]}
+
+
+data:{"timestamp": 1667473283, "coords": [37.2912192, 55.7379336], "heading": 248.39, "velocity": 45.18, "accuracy": [1.99, 2.84]}
+
+
+data:{"timestamp": 1667473284, "coords": [37.2910266, 55.7378928], "heading": 249.62, "velocity": 47.1, "accuracy": [2.01, 2.87]}
+
+
+data:{"timestamp": 1667473285, "coords": [37.2908264, 55.7378513], "heading": 250.03, "velocity": 48.7, "accuracy": [2.03, 2.91]}
+
+
+data:{"timestamp": 1667473286, "coords": [37.2906183, 55.737811], "heading": 251.37, "velocity": 50.22, "accuracy": [2.05, 2.94]}
+
+
+data:{"timestamp": 1667473287, "coords": [37.2904012, 55.7377723], "heading": 252.71, "velocity": 51.98, "accuracy": [2.06, 2.97]}
+
+
+data:{"timestamp": 1667473288, "coords": [37.2901743, 55.7377343], "heading": 253.82, "velocity": 54.01, "accuracy": [2.08, 2.99]}
+
+
+data:{"timestamp": 1667473289, "coords": [37.2899367, 55.7376979], "heading": 255.06, "velocity": 56.2, "accuracy": [2.09, 2.99]}
+
+
+data:{"timestamp": 1667473290, "coords": [37.2896893, 55.7376629], "heading": 256.24, "velocity": 58.18, "accuracy": [2.1, 3.01]}
+
+
+data:{"timestamp": 1667473291, "coords": [37.2894318, 55.7376302], "heading": 257.75, "velocity": 60.28, "accuracy": [2.11, 3.02]}
+
+
+data:{"timestamp": 1667473292, "coords": [37.2891644, 55.7375998], "heading": 258.93, "velocity": 62.28, "accuracy": [2.12, 3.03]}
+
+
+data:{"timestamp": 1667473293, "coords": [37.2888866, 55.737572], "heading": 260.36, "velocity": 64.44, "accuracy": [2.12, 3.04]}
+
+
+data:{"timestamp": 1667473294, "coords": [37.2885994, 55.7375472], "heading": 261.81, "velocity": 66.28, "accuracy": [2.14, 3.07]}
+
+
+data:{"timestamp": 1667473295, "coords": [37.288303, 55.7375251], "heading": 262.76, "velocity": 68.18, "accuracy": [2.16, 3.11]}
+
+
+data:{"timestamp": 1667473296, "coords": [37.2879974, 55.7375054], "heading": 263.69, "velocity": 70.14, "accuracy": [2.17, 3.15]}
+
+
+data:{"timestamp": 1667473297, "coords": [37.2876838, 55.7374867], "heading": 264.11, "velocity": 71.77, "accuracy": [2.18, 3.19]}
+
+
+data:{"timestamp": 1667473298, "coords": [37.2873629, 55.7374682], "heading": 264.26, "velocity": 73.47, "accuracy": [2.19, 3.21]}
+
+
+data:{"timestamp": 1667473299, "coords": [37.287036, 55.7374501], "heading": 264.46, "velocity": 74.57, "accuracy": [2.19, 3.22]}
+
+
+data:{"timestamp": 1667473300, "coords": [37.2867068, 55.7374322], "heading": 264.61, "velocity": 74.9, "accuracy": [2.2, 3.24]}
+
+
+data:{"timestamp": 1667473301, "coords": [37.2863761, 55.7374139], "heading": 264.4, "velocity": 75.23, "accuracy": [2.21, 3.27]}
+
+
+data:{"timestamp": 1667473302, "coords": [37.2860427, 55.737395], "heading": 264.39, "velocity": 75.96, "accuracy": [2.22, 3.28]}
+
+
+data:{"timestamp": 1667473303, "coords": [37.2857087, 55.7373761], "heading": 264.36, "velocity": 75.92, "accuracy": [2.23, 3.31]}
+
+
+data:{"timestamp": 1667473304, "coords": [37.2853745, 55.7373576], "heading": 264.43, "velocity": 75.98, "accuracy": [2.24, 3.32]}
+
+
+data:{"timestamp": 1667473305, "coords": [37.28504, 55.7373391], "heading": 264.39, "velocity": 75.99, "accuracy": [2.24, 3.33]}
+
+
+data:{"timestamp": 1667473306, "coords": [37.2847057, 55.7373204], "heading": 264.35, "velocity": 75.96, "accuracy": [2.25, 3.36]}
+
+
+data:{"timestamp": 1667473307, "coords": [37.284372, 55.7373009], "heading": 264.17, "velocity": 75.85, "accuracy": [2.26, 3.38]}
+
+
+data:{"timestamp": 1667473308, "coords": [37.2840383, 55.7372819], "heading": 264.37, "velocity": 75.87, "accuracy": [2.27, 3.38]}
+
+
+data:{"timestamp": 1667473309, "coords": [37.2837041, 55.7372634], "heading": 264.4, "velocity": 75.92, "accuracy": [2.27, 3.38]}
+

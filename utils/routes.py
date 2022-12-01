@@ -2,17 +2,13 @@ import geopandas as gpd
 import pandas as pd
 from typing import Optional
 import numpy as np
+import logging
 from shapely.geometry import Point, Polygon, LineString
-from configparser import ConfigParser
 
-config = ConfigParser()
-config.read('config.ini')
-config = config["main"]
 
 class Rails:
-    def __init__(self):
-        self.rails = config["rails"]
-        self._df = self.load_rails()
+    def __init__(self, df: gpd.GeoDataFrame):
+        self._df = df
         self._rail_idx: Optional[np.int64] = None
 
     @property
@@ -23,18 +19,10 @@ class Rails:
     def rail_idx(self) -> Optional[np.int64]:
         return self._rail_idx
     
-    def load_rails(self) -> gpd.GeoDataFrame:
-        df = pd.read_csv(self.rails, delimiter=";")
-        rails_df = gpd.GeoDataFrame(
-            df.loc[:, [c for c in df.columns \
-            if c != "geometry" and c != "Unnamed: 0"]],
-            geometry=gpd.GeoSeries.from_wkt(df["geometry"]))
-        del df
-        return rails_df
-    
     def get_closest_line(self, point: Point) -> gpd.GeoDataFrame:
         self._rail_idx: Optional[np.int64] = self._df.distance(point).sort_values().index[0]
-        closest_line = self._df.iloc[[self._rail_idx]]
+        closest_line = self._df.loc[self._df["id"] == self._rail_idx]
+        logging.info(f"Closest rail-path with id = {self._rail_idx}: inited")
         return closest_line
     
     def create_buffer(self, width: float = 0.005) -> Polygon:

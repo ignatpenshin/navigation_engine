@@ -1,6 +1,8 @@
 import time
 import json
-from .pose import Pose
+import os
+import logging
+from utils.pose import Pose
 from configparser import ConfigParser
 
 config = ConfigParser()
@@ -9,9 +11,10 @@ config = config["main"]
 
 class Emulator:
     def __init__(self, freq: int):
-        self._track = open(config["emulation"], "r")
+        self._track = open(os.path.join(config["path"], config["emulation"]), "r")
         self.freq = freq
         self.data = None
+        logging.info(f"Train Emulator with freq = {freq} s.: Done")
 
     @property
     def track(self):
