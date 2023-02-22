@@ -27,7 +27,7 @@ Open Questions:
 <p>
 
 ```console
-git clone https://bitbucket.locotech-signal.ru/scm/~ignat.penshin/navigator.git
+git clone https://github.com/ignatpenshin/navigation_engine.git
 cd navigator
 pip install -r requirements.txt
 ```
